@@ -1,0 +1,27 @@
+{
+  "name": "gp-maroc",
+  "version": "1.0.0",
+  "description": "GPM Holding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gp-maroc-ma/gp-maroc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gp-maroc-ma/gp-maroc/issues"
+  },
+  "homepage": "https://github.com/gp-maroc-ma/gp-maroc#readme",
+  "dependencies": {
+    "tinacms": "^3.0.1"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^2.0.1",
+    "@types/node": "^24.10.1"
+  }
+}

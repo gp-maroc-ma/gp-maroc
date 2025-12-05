@@ -1,0 +1,3 @@
+[submodule "themes/willfaught"]
+	path = themes/willfaught
+	url = https://github.com/willfaught/paige.git

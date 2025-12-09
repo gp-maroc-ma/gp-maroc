@@ -7,7 +7,8 @@ hero_slider:
     # slider item
     - subtitle : "We are here to"
       title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
+      photovoltaic panels provide renewable energy that is environmentally friendly."
       bg_image_webp : "images/slider/01.jpg"
       bg_image : "images/slider/01.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
@@ -20,7 +21,8 @@ hero_slider:
     # slider item
     - subtitle : "We are here to"
       title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
+      photovoltaic panels provide renewable energy that is environmentally friendly."
       bg_image_webp : "images/slider/02.jpg"
       bg_image : "images/slider/02.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
@@ -33,7 +35,8 @@ hero_slider:
     # slider item
     - subtitle : "We are here to"
       title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
+      photovoltaic panels provide renewable energy that is environmentally friendly."
       bg_image_webp : "images/slider/03.jpg"
       bg_image : "images/slider/03.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
@@ -50,22 +53,22 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Business Solution"
+    - name : "Slim module design"
       icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
       
     # banner feature item loop
-    - name : "Market Research"
+    - name : "High efficiency"
       icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
       
     # banner feature item loop
-    - name : "Business Strategy"
+    - name : "Eco-Friendly"
       icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
       
     # banner feature item loop
-    - name : "Speed Optimization"
+    - name : "Reduce Shipping Cost"
       icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Lorem ipsum dolor sit amet constur adipelit sed."
 
@@ -74,12 +77,21 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
-  bg_image : "images/backgrounds/about-us-bg.png"
-  bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.webp"
-  image : "images/about/about-us.png"
+  title : "We Are Dynamic Team and Solar Panels Business"
+  content : "GPM Holding is a pioneering venture at the forefront of sustainable energy solutions. Specializing in the 
+  production and installation of solar panels, we are committed to revolutionizing the renewable energy sector in 
+  Africa. <br><br>Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
+  already   operational and several others in the development phase progressing steadily. These projects showcase our 
+  dedication   to empowering communities with clean energy solutions. <br><br>In tandem with our manufacturing and 
+  project development   endeavors, our service company delivers tailored solutions to meet the needs of both our valued 
+  clients and our own internal operations. From installation and maintenance to technical assistance, the services GPM 
+  provides ensure seamless functionality and unmatched customer satisfaction. <br><br>With a mission to harness the 
+  power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future of energy production while 
+  aligning itself with the Kingdom’s renewable energy goals."
+  bg_image : "images/backgrounds/about-us-bg.jpg"
+  bg_image_webp : "images/backgrounds/about-us-bg.jpg"
+  image_webp : "images/about/about-us.jpg"
+  image : "images/about/about-us.jpg"
   button:
     enable : true;
     label : "more service"

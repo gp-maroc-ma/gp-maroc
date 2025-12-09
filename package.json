@@ -1,27 +1,21 @@
 {
-  "name": "gp-maroc",
-  "version": "1.0.0",
-  "description": "GPM Holding",
-  "main": "index.js",
+  "name": "bexer-hugo",
+  "version": "3.2.5",
+  "license": "UNLICENSED",
+  "author": "gethugothemes",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gp-maroc-ma/gp-maroc.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gp-maroc-ma/gp-maroc/issues"
-  },
-  "homepage": "https://github.com/gp-maroc-ma/gp-maroc#readme",
-  "dependencies": {
-    "tinacms": "^3.0.1"
+    "dev": "hugo server",
+    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "test": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
+    "dev:example": "cd exampleSite; hugo server --themesDir ../..",
+    "build:example": "cd exampleSite; hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
+    "test:example": "cd exampleSite; hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
+    "project-setup": "node ./scripts/projectSetup.js",
+    "theme-setup": "node ./scripts/themeSetup.js",
+    "format": "prettier -w ."
   },
   "devDependencies": {
-    "@tinacms/cli": "^2.0.1",
-    "@types/node": "^24.10.1"
+    "prettier": "^2.8.7",
+    "prettier-plugin-go-template": "0.0.13"
   }
 }

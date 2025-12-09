@@ -55,22 +55,22 @@ banner_feature:
     # banner feature item loop
     - name : "Slim module design"
       icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Elegance and energy combined in a slim, space-saving profile."
       
     # banner feature item loop
     - name : "High efficiency"
       icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Capture more sunlight and generate maximum power with every panel."
       
     # banner feature item loop
     - name : "Eco-Friendly"
       icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Power your life with clean energy that protects our planet."
       
     # banner feature item loop
     - name : "Reduce Shipping Cost"
       icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Engineered for efficiency, lower costs from our factory to your roof."
 
 
 ################################## about ####################################
@@ -78,6 +78,7 @@ about:
   enable : true
   subtitle : "About Us"
   title : "We Are Dynamic Team and Solar Panels Business"
+  
   content : "GPM Holding is a pioneering venture at the forefront of sustainable energy solutions. Specializing in the 
   production and installation of solar panels, we are committed to revolutionizing the renewable energy sector in 
   Africa. <br><br>Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
@@ -88,6 +89,7 @@ about:
   provides ensure seamless functionality and unmatched customer satisfaction. <br><br>With a mission to harness the 
   power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future of energy production while 
   aligning itself with the Kingdom’s renewable energy goals."
+  
   bg_image : "images/backgrounds/about-us-bg.jpg"
   bg_image_webp : "images/backgrounds/about-us-bg.jpg"
   image_webp : "images/about/about-us.jpg"
@@ -126,20 +128,24 @@ funfacts :
 feature:
   enable : true
   subtitle : "Why Choose Us"
-  title : "Why They Choose Bexar"
-  image_webp : "images/feature/feature.webp"
-  image : "images/feature/feature.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
+  title : "Why They Choose GPM Holding"
+  image_webp : "images/feature/bg_about_01.jpg"
+  image : "images/feature/bg_about_01.jpg"
+  content : "Our focus centers on innovation. We believe, in offering the most innovative products, we can provide our 
+  customers with ease and access to reliable and bespoke sustainable solutions."
   feature_item:
     # feature item loop
     - name : "Creative Design"
       icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      content : "By combining physical tempering technology with a unique solar module design concept, our panels are 
+      proven to withstand longer lifetimes with better electrical efficiencies."
       
     # feature item loop
-    - name : "Pixel Perfect Coding"
+    - name : "Innovative Solutions"
       icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      content : "The advanced technology behind our dual-glass photovoltaic modules position us to 
+      provide our customers with a flawless integration of sleek design, guaranteed durability and long-term, 
+      cost-effective sustainable solutions"
 
 ################################# service ############################################
 service:

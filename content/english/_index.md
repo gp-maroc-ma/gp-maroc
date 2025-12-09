@@ -200,7 +200,7 @@ testimonial:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Bexar give the smart solution for your business"
+  title : "GPM Holding give the smart solution for your business"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:

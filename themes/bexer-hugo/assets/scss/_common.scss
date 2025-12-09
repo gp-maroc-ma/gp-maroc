@@ -230,6 +230,10 @@ a h5 {
   background: darken($color: $secondary-color, $amount: 3) !important;
 }
 
+.bg-light-green {
+  background: $primary-light-color !important;
+}
+
 .bg-gray {
   background: $light !important;
 }

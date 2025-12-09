@@ -172,6 +172,17 @@ project:
     link : "project/"
   # project item comes from "content/*/project" folder
 
+################################# blog ################################################
+cta:
+  enable : true
+  title : "GPM Holding give the smart solution for your business"
+  bg_image_webp : "images/backgrounds/cta-lg.webp"
+  bg_image : "images/backgrounds/cta-lg.jpg"
+  button:
+    enable : true
+    label : "get a quote"
+    link : "contact/"
+    
 ################################# testimonial #########################################
 testimonial:
   enable : true
@@ -196,21 +207,9 @@ testimonial:
       designation : "Designer"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
 
-
-################################# blog ################################################
-cta:
-  enable : true
-  title : "GPM Holding give the smart solution for your business"
-  bg_image_webp : "images/backgrounds/cta-lg.webp"
-  bg_image : "images/backgrounds/cta-lg.jpg"
-  button:
-    enable : true
-    label : "get a quote"
-    link : "contact/"
-
 ################################# blog ################################################
 blog:
-  enable : true
+  enable : false
   section : "blog"
   show_item : 3
   # blog post comes from "content/*/blog" folder

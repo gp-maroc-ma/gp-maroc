@@ -6,6 +6,7 @@
 # customize your color and font from here.
 [params.variables]
 primary_color = "#86c33a"
+primary-light-color = "#f5faf6"
 secondary_color = "#252d39"
 body_color = "#fff"
 text_color = "#818385"

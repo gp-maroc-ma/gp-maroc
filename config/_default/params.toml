@@ -9,9 +9,9 @@ top_header = true
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@bexer.com"
+address = "Angle AV Oujda Et TanTan Res, Perla Oficinas 12 Etage Bureau N 60 Tangier"
+mobile = "+212 539 945 952"
+email = "info@gp-maroc.ma"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -33,7 +33,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "get a quote"
-link = "contact/"
+link = "#contacts"
 
 # Subscription
 [subscription]
@@ -54,16 +54,13 @@ map_marker_name = "Bexer"
 ########################### social icon ############################
 [[social]]
 icon = "fab fa-facebook"
-link = "https://facebook.com/themefisher"
+link = "https://facebook.com/"
 
 [[social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/themefisher"
+link = "https://twitter.com/"
 
-[[social]]
-icon = "fab fa-github"
-link = "https://github.com/themefisher"
 
 [[social]]
 icon = "fab fa-instagram"
-link = "https://instagram.com/themefisher"
+link = "https://instagram.com/"

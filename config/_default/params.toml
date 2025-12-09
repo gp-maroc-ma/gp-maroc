@@ -1,6 +1,6 @@
 ########################### Default parameters ######################
 logo = "images/logo.png"
-logo_width = "149px"
+logo_width = "150px"
 logo_footer = "images/logo-alt.png"
 favicon = "images/favicon.png"
 # top header
@@ -19,7 +19,7 @@ google_analitycs_id = "" # your id
 # page sidebar quick contact form
 quick_contact = true
 # search
-search = true
+search = false
 
 # Main section
 mainSections = ["blog"]

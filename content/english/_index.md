@@ -7,54 +7,45 @@ hero_slider:
     # slider item
     - subtitle : "We are here to"
       title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-1.webp"
-      bg_image : "images/slider/banner-1.jpg"
+      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
+      photovoltaic panels provide renewable energy that is environmentally friendly."
+      bg_image_webp : "images/slider/01.jpg"
+      bg_image : "images/slider/01.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "#contacts"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
     - subtitle : "We are here to"
       title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-2.webp"
-      bg_image : "images/slider/banner-2.jpg"
+      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
+      photovoltaic panels provide renewable energy that is environmentally friendly."
+      bg_image_webp : "images/slider/02.jpg"
+      bg_image : "images/slider/02.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "#contacts"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
     - subtitle : "We are here to"
       title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-3.webp"
-      bg_image : "images/slider/banner-3.jpg"
+      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
+      photovoltaic panels provide renewable energy that is environmentally friendly."
+      bg_image_webp : "images/slider/03.jpg"
+      bg_image : "images/slider/03.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "#contacts"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
-    # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-4.webp"
-      bg_image : "images/slider/banner-4.jpg"
-      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about/"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
 banner_feature:
@@ -62,36 +53,47 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Business Solution"
+    - name : "Slim module design"
       icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Elegance and energy combined in a slim, space-saving profile."
       
     # banner feature item loop
-    - name : "Market Research"
+    - name : "High efficiency"
       icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Capture more sunlight and generate maximum power with every panel."
       
     # banner feature item loop
-    - name : "Business Strategy"
+    - name : "Eco-Friendly"
       icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Power your life with clean energy that protects our planet."
       
     # banner feature item loop
-    - name : "Speed Optimization"
+    - name : "Reduce Shipping Cost"
       icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Engineered for efficiency, lower costs from our factory to your roof."
 
 
 ################################## about ####################################
 about:
   enable : true
   subtitle : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
-  bg_image : "images/backgrounds/about-us-bg.png"
-  bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.webp"
-  image : "images/about/about-us.png"
+  title : "We Are Dynamic Team and Solar Panels Business"
+  
+  content : "GPM Holding is a pioneering venture at the forefront of sustainable energy solutions. Specializing in the 
+  production and installation of solar panels, we are committed to revolutionizing the renewable energy sector in 
+  Africa. <br><br>Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
+  already   operational and several others in the development phase progressing steadily. These projects showcase our 
+  dedication   to empowering communities with clean energy solutions. <br><br>In tandem with our manufacturing and 
+  project development   endeavors, our service company delivers tailored solutions to meet the needs of both our valued 
+  clients and our own internal operations. From installation and maintenance to technical assistance, the services GPM 
+  provides ensure seamless functionality and unmatched customer satisfaction. <br><br>With a mission to harness the 
+  power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future of energy production while 
+  aligning itself with the Kingdom’s renewable energy goals."
+  
+  bg_image : "images/backgrounds/about-us-bg.jpg"
+  bg_image_webp : "images/backgrounds/about-us-bg.jpg"
+  image_webp : "images/about/about-us.jpg"
+  image : "images/about/about-us.jpg"
   button:
     enable : true;
     label : "more service"
@@ -126,20 +128,24 @@ funfacts :
 feature:
   enable : true
   subtitle : "Why Choose Us"
-  title : "Why They Choose Bexar"
-  image_webp : "images/feature/feature.webp"
-  image : "images/feature/feature.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
+  title : "Why They Choose GPM Holding"
+  image_webp : "images/feature/bg_about_01.jpg"
+  image : "images/feature/bg_about_01.jpg"
+  content : "Our focus centers on innovation. We believe, in offering the most innovative products, we can provide our 
+  customers with ease and access to reliable and bespoke sustainable solutions."
   feature_item:
     # feature item loop
     - name : "Creative Design"
       icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      content : "By combining physical tempering technology with a unique solar module design concept, our panels are 
+      proven to withstand longer lifetimes with better electrical efficiencies."
       
     # feature item loop
-    - name : "Pixel Perfect Coding"
+    - name : "Innovative Solutions"
       icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      content : "The advanced technology behind our dual-glass photovoltaic modules position us to 
+      provide our customers with a flawless integration of sleek design, guaranteed durability and long-term, 
+      cost-effective sustainable solutions"
 
 ################################# service ############################################
 service:
@@ -194,7 +200,7 @@ testimonial:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Bexar give the smart solution for your business"
+  title : "GPM Holding give the smart solution for your business"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:

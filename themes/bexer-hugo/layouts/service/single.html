@@ -32,8 +32,10 @@
         {{ partial "quick-contact.html" . }}
       </aside>
       <div class="col-lg-8">
-        <img loading="lazy" src="{{ .Params.Image_webp | absURL }}" onerror="this.onerror=null;this.src='{{.Params.Image | absURL }}'"
-          alt="s{{.Title}}" class="img-fluid w-100 mb-5">
+        <div class="d-flex justify-content-center mb-3">
+          <img loading="lazy" src="{{ .Params.Image_webp | absURL }}" onerror="this.onerror=null;this.src='{{.Params.Image | absURL }}'"
+            alt="s{{.Title}}" class="img-fluid mb-5" style="width:{{.Params.image_width}} !important">
+        </div>
         <div class="content">
           {{ .Content }}
         </div>

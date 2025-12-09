@@ -8,8 +8,8 @@ hero_slider:
     - subtitle : "We are here to"
       title : "Planning Business"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-1.webp"
-      bg_image : "images/slider/banner-1.jpg"
+      bg_image_webp : "images/slider/01.jpg"
+      bg_image : "images/slider/01.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -21,8 +21,8 @@ hero_slider:
     - subtitle : "We are here to"
       title : "Planning Business"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-2.webp"
-      bg_image : "images/slider/banner-2.jpg"
+      bg_image_webp : "images/slider/02.jpg"
+      bg_image : "images/slider/02.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -34,8 +34,8 @@ hero_slider:
     - subtitle : "We are here to"
       title : "Planning Business"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-3.webp"
-      bg_image : "images/slider/banner-3.jpg"
+      bg_image_webp : "images/slider/03.jpg"
+      bg_image : "images/slider/03.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -43,18 +43,6 @@ hero_slider:
         link : "about/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
-    # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/banner-4.webp"
-      bg_image : "images/slider/banner-4.jpg"
-      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : true
-        label : "more details"
-        link : "about/"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
 banner_feature:
@@ -194,7 +182,7 @@ testimonial:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "Bexar give the smart solution for your business"
+  title : "GPM Holding give the smart solution for your business"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:

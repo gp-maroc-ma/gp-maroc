@@ -181,10 +181,6 @@
 {{end}}
 {{ "<!-- /case study -->" | safeHTML }}
 
-{{ if .Params.testimonial.enable }}
-{{ partial "testimonial.html" . }}
-{{ end }}
-
 {{ if .Params.cta.enable }}
 {{ with .Params.cta }}
 {{ "<!-- call to action -->" | safeHTML }}
@@ -204,6 +200,10 @@
 </section>
 {{ "<!-- /call to action -->" | safeHTML }}
 {{ end }}
+{{ end }}
+
+{{ if .Params.testimonial.enable }}
+{{ partial "testimonial.html" . }}
 {{ end }}
 
 {{ "<!-- blog -->" | safeHTML }}

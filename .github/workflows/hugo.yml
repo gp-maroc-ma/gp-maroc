@@ -55,7 +55,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://gp-maroc.frontviewer.com/"
+            --baseURL "https://gp-maroc.gp-maroc.ma/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

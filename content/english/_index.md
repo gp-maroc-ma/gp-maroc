@@ -214,4 +214,9 @@ blog:
   show_item : 3
   # blog post comes from "content/*/blog" folder
 
+################################# contacts ################################################
+contact:
+  enable : true
+  image : "images/globe.jpg"
+  
 ---

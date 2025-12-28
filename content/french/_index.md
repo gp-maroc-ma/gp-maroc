@@ -50,9 +50,9 @@ hero_slider:
       title : "GPM Polysilicon : Le Socle de la Valeur Solaire"
       content : "Sécuriser la production de polysilicium de haute pureté pour alimenter la transition mondiale vers 
       l'énergie renouvelable."
-      bg_image_webp : "images/slider/value-chain-silicon.jpg"
-      bg_image : "images/slider/value-chain-silicon.jpg"
-      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
+      bg_image_webp : "images/slider/polysilicon_solar_cell.jpg"
+      bg_image : "images/slider/polysilicon_solar_cell.jpg"
+      animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
@@ -66,7 +66,7 @@ hero_slider:
       écosystème de transport durable."
       bg_image_webp : "images/slider/electric-cars-parking-lot-charging.jpg"
       bg_image : "images/slider/electric-cars-parking-lot-charging.jpg"
-      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
+      animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"

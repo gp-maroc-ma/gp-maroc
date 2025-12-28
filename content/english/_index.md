@@ -5,47 +5,72 @@ hero_slider:
   enable : true
   slider_item:
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
-      photovoltaic panels provide renewable energy that is environmentally friendly."
-      bg_image_webp : "images/slider/01.jpg"
-      bg_image : "images/slider/01.jpg"
+    - subtitle : "GPM Parks"
+      title : "Sustainable Industrial Hubs"
+      content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
+      and strategic growth."
+      bg_image_webp : "images/slider/image5.jpg"
+      bg_image : "images/slider/image5.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "#contacts"
+        link : "http://gpm-parks.ma"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
-      photovoltaic panels provide renewable energy that is environmentally friendly."
-      bg_image_webp : "images/slider/02.jpg"
-      bg_image : "images/slider/02.jpg"
+    - subtitle : "Solaris"
+      title : "Advanced Photovoltaic Manufacturing"
+      content : "High-performance solar panel production powered by cutting-edge technology and precision engineering."
+      bg_image_webp : "images/slider/drone_pictures_23.JPG"
+      bg_image : "images/slider/drone_pictures_23.JPG"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "#contacts"
+        link : "http://solaristangier.ma"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "GPM Holding installs and maintains photovoltaic solar panels within the country of Morocco. Our 
-      photovoltaic panels provide renewable energy that is environmentally friendly."
-      bg_image_webp : "images/slider/03.jpg"
-      bg_image : "images/slider/03.jpg"
+    - subtitle : "GPM Services"
+      title : "Operational Excellence"
+      content : "Comprehensive maintenance and specialized cleaning solutions to ensure the maximum efficiency of solar 
+      installations."
+      bg_image_webp : "images/slider/bg_development_-1.jpg"
+      bg_image : "images/slider/bg_development_-1.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "#contacts"
+        link : "http://gp-services.ma"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
+    # slider item
+    - subtitle : "GPM Polysilicon"
+      title : "The Foundation of Solar Value"
+      content : "Securing high-purity polysilicon production to power the global transition to renewable energy."
+      bg_image_webp : "images/slider/value-chain-silicon.jpg"
+      bg_image : "images/slider/value-chain-silicon.jpg"
+      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "more details"
+        link : "http://sondiale.ma"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+        
+    # slider item
+    - subtitle : "GPM Mobility"
+      title : "Powering the Electric Future"
+      content : "Building the essential infrastructure for electric vehicle charging and a sustainable transport 
+      ecosystem."
+      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.jpg"
+      bg_image : "images/slider/electric-cars-parking-lot-charging.jpg"
+      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "more details"
+        link : "http://gp-mobilite.ma"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
 banner_feature:

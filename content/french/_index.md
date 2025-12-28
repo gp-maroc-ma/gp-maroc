@@ -5,42 +5,72 @@ hero_slider:
   enable : true
   slider_item:
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/01.jpg"
-      bg_image : "images/slider/01.jpg"
+    - subtitle : "GPM Parks"
+      title : "GPM Parks : Hubs Industriels Durables"
+      content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés aux 
+      énergies renouvelables et à la croissance stratégique."
+      bg_image : "images/slider/image5.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "#contacts"
+        link : "http://gpm-parks.ma"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/02.jpg"
-      bg_image : "images/slider/02.jpg"
+    - subtitle : "Solaris"
+      title : "Solaris : Fabrication Photovoltaïque Avancée"
+      content : "Production de panneaux solaires haute performance, portée par une technologie de pointe et une 
+      ingénierie de précision."
+      bg_image_webp : "images/slider/drone_pictures_23.JPG"
+      bg_image : "images/slider/drone_pictures_23.JPG"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "#contacts"
+        link : "http://solaristangier.ma"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "We are here to"
-      title : "Planning Business"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      bg_image_webp : "images/slider/03.jpg"
-      bg_image : "images/slider/03.jpg"
+    - subtitle : "GPM Services"
+      title : "GPM Services : Excellence Opérationnelle"
+      content : "Solutions complètes de maintenance et de nettoyage spécialisé pour garantir l'efficacité maximale des 
+      installations solaires."
+      bg_image_webp : "images/slider/bg_development_-1.jpg"
+      bg_image : "images/slider/bg_development_-1.jpg"
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
         label : "more details"
-        link : "#contacts"
+        link : "http://gp-services.ma"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+        
+    # slider item
+    - subtitle : "GPM Polysilicon"
+      title : "GPM Polysilicon : Le Socle de la Valeur Solaire"
+      content : "Sécuriser la production de polysilicium de haute pureté pour alimenter la transition mondiale vers 
+      l'énergie renouvelable."
+      bg_image_webp : "images/slider/value-chain-silicon.jpg"
+      bg_image : "images/slider/value-chain-silicon.jpg"
+      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "more details"
+        link : "http://sondiale.ma"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+        
+    # slider item
+    - subtitle : "GPM Mobility"
+      title : "GPM Mobility : Propulser l'Avenir Électrique"
+      content : "Construction de l'infrastructure essentielle pour la recharge des véhicules électriques et un 
+      écosystème de transport durable."
+      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.jpg"
+      bg_image : "images/slider/electric-cars-parking-lot-charging.jpg"
+      animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : true
+        label : "more details"
+        link : "http://gp-mobilite.ma"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
 

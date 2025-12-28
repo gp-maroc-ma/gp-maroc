@@ -22,3 +22,13 @@
   border-radius: 16px;
   box-shadow: 9px 7px 16px rgba(200, 200, 200, 0.3);
 }
+
+/* Smooth scroll with offset for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Modern approach using scroll-margin-top */
+section[id] {
+  scroll-margin-top: 75px;
+}

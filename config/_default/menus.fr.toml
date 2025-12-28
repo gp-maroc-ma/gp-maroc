@@ -1,36 +1,24 @@
 ############# French navigation ##############
-
-
 # main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About"
+url = "#about"
+weight = 2
+
 #[[main]]
-#name = "About"
-#url = "about/"
-#weight = 2
+#name = "GPM Services"
+#url = "service/"
+#weight = 6
 
-[[main]]
-name = "GPM Parks"
-url = "service/"
-weight = 3
-
-[[main]]
-name = "Solaris"
-url = "service/"
-weight = 4
-
-[[main]]
-name = "Polysilicon"
-url = "service/"
-weight = 5
-
-[[main]]
-name = "GPM Services"
-url = "service/"
-weight = 6
-
-[[main]]
-name = "GPM Mobility"
-url = "service/"
-weight = 7
+#[[main]]
+#name = "GPM Mobility"
+#url = "service/"
+#weight = 7
 
 #[[main]]
 #name = "Blog"
@@ -42,39 +30,45 @@ weight = 7
 #url = "team/"
 #weight = 6
 
-#[[main]]
-#name = "Contact"
-#url = "contact/"
-#weight = 7
+[[main]]
+weight = 3
+name = "Our Entities"
+hasChildren = true
 
-#[[main]]
-#weight = 8
-#name = "Pages"
-#hasChildren = true
-#
-#  [[main]]
-#  parent = "Pages"
-#  name = "All Projects"
-#  url = "project/"
-#  weight = 1
-#
-#  [[main]]
-#  parent = "Pages"
-#  name = "Terms of Service"
-#  url = "terms/"
-#  weight = 2
-#
-#  [[main]]
-#  parent = "Pages"
-#  name = "Privacy Policy"
-#  url = "privacy-policy/"
-#  weight = 3
+[[main]]
+parent = "Our Entities"
+name = "GPM Parks"
+url = "/"
+weight = 1
 
-#  [[main]]
-#  parent = "Pages"
-#  name = "Elements"
-#  url = "blog/elements/"
-#  weight = 4
+[[main]]
+parent = "Our Entities"
+name = "Solaris"
+url = "/"
+weight = 2
+
+[[main]]
+parent = "Our Entities"
+name = "Polysilicon"
+url = "/"
+weight = 3
+
+[[main]]
+parent = "Our Entities"
+name = "GPM Services"
+url = "/"
+weight = 4
+
+[[main]]
+parent = "Our Entities"
+name = "GPM Mobility"
+url = "/"
+weight = 5
+
+[[main]]
+name = "Contact"
+url = "#contacts"
+weight = 4
 
 # footer menu
 [[footer]]

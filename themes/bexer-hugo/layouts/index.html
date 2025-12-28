@@ -61,7 +61,7 @@
 
 {{ if .Params.about.enable }}
 {{ "<!-- about us -->" | safeHTML }}
-<section class="section pt-0">
+<section class="section pt-0" id="about">
   {{ partial "about-section.html" . }}
 </section>
 {{ "<!-- /about us -->" | safeHTML }}

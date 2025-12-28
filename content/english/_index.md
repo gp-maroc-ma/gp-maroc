@@ -90,14 +90,14 @@ about:
   power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future of energy production while 
   aligning itself with the Kingdom’s renewable energy goals."
   
-  bg_image : "images/backgrounds/about-us-bg.jpg"
-  bg_image_webp : "images/backgrounds/about-us-bg.jpg"
+  bg_image : "images/backgrounds/about-us-bg.png"
+  bg_image_webp : "images/backgrounds/about-us-bg.webp"
   image_webp : "images/about/about-us.jpg"
   image : "images/about/about-us.jpg"
   button:
     enable : true;
     label : "more service"
-    link : "service/"
+    link : "#contacts"
 
 ################################## funfacts ###############################
 funfacts :

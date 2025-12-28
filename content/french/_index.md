@@ -14,7 +14,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "#contacts"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -27,7 +27,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "#contacts"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -40,7 +40,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "about/"
+        link : "#contacts"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
 
@@ -83,7 +83,7 @@ about:
   button:
     enable : true;
     label : "more service"
-    link : "service/"
+    link : "#contacts"
 
 ################################## funfacts ###############################
 funfacts :

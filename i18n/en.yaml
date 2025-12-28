@@ -1,6 +1,6 @@
 - id: read_more
   translation: Read More
-  
+
 - id: address
   translation: Our Address
 
@@ -19,8 +19,8 @@
 - id: follow
   translation: FOLLOW US ON
 
-- id: services
-  translation: Services
+- id: footer_menu
+  translation: Our Entities
 
 - id: contact_info
   translation: Contact Info
@@ -63,6 +63,6 @@
 
 - id: status
   translation: status
-  
+
 - id: our_services
   translation: Our Services

@@ -72,6 +72,32 @@ url = "#contacts"
 weight = 4
 
 # footer menu
+[[footer_menu]]
+name = "GPM Parks"
+url = "/"
+weight = 1
+
+[[footer_menu]]
+name = "Solaris"
+url = "/"
+weight = 2
+
+[[footer_menu]]
+name = "Polysilicon"
+url = "/"
+weight = 3
+
+[[footer_menu]]
+name = "GPM Services"
+url = "/"
+weight = 4
+
+[[footer_menu]]
+name = "GPM Mobility"
+url = "/"
+weight = 5
+
+# footer bottom links
 [[footer]]
 name = "Terms of Service"
 url = "terms/"

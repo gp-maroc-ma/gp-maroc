@@ -206,6 +206,10 @@
 {{ partial "testimonial.html" . }}
 {{ end }}
 
+{{ if .Params.partners.enable }}
+{{ partial "partners.html" . }}
+{{ end }}
+
 {{ "<!-- blog -->" | safeHTML }}
 {{$show_item:= .Params.service.show_item}}
 {{ if .Params.blog.enable }}

@@ -32,3 +32,21 @@ html {
 section[id] {
   scroll-margin-top: 75px;
 }
+
+.partner-logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px !important;
+  padding: 15px;
+  background: #fafafa;
+  border-radius: 8px;
+}
+
+.partner-logo {
+  max-height: 80px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain;
+  display: block;
+}

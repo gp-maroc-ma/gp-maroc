@@ -156,7 +156,7 @@ project:
 
 ################################# testimonial #########################################
 testimonial:
-  enable : true
+  enable : false
   subtitle : "Testimonials"
   title : "What Clients Are Say?"
   testimonial_item:
@@ -178,7 +178,30 @@ testimonial:
       designation : "Designer"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
 
-
+################################# partners #########################################
+partners:
+  enable : true
+  subtitle : "PARTNERS"
+  title : "Our Strategic Partners"
+  partners_item:
+    # partners item loop
+    - partner_logo : "images/partners/partner-1.jpg"
+      name : "Advanced Material Solutions"
+      description : "Description"
+      content : "Description"
+      
+    # partners item loop
+    - partner_logo : "images/partners/partner-2.png"
+      name : "The U.S. International Development Finance Corporation"
+      description : "Description"
+      content : "Description"
+      
+    # partners item loop
+    - partner_logo : "images/partners/partner-3.png"
+      name : "The Moroccan Agency for Investment and Export Development"
+      description : "Description"
+      content : "Description"
+  
 ################################# blog ################################################
 cta:
   enable : true
@@ -197,4 +220,9 @@ blog:
   show_item : 3
   # blog post comes from "content/*/blog" folder
 
+################################# contacts ################################################
+contact:
+  enable : true
+  image : "images/globe.jpg"
+  
 ---

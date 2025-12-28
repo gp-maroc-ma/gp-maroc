@@ -149,21 +149,21 @@ feature:
 
 ################################# service ############################################
 service:
-  enable : true
+  enable : false
   section: "service"
   show_item : 3
   # service item comes from "content/*/service" folder
 
 ################################# team ##############################################
 team:
-  enable : true
+  enable : false
   section: "team"
   show_item : 3
   # team member comes from "content/*/team" folder
 
 ################################# project ############################################
 project:
-  enable : true
+  enable : false
   section: "project"
   show_item : 4
   button:

@@ -15,7 +15,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://gpm-parks.ma"
+        link : "project/gpm-parks"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -28,7 +28,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://solaristangier.ma"
+        link : "project/solaristangier"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -42,7 +42,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://gp-services.ma"
+        link : "project/gpm-services/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -55,7 +55,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://sondiale.ma"
+        link : "project/sondiale/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -69,7 +69,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://gp-mobilite.ma"
+        link : "project/gpm-mobility/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################

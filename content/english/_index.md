@@ -126,7 +126,7 @@ about:
   image : "images/about/about-us.jpg"
   button:
     enable : true;
-    label : "more service"
+    label : "Contact us"
     link : "#contacts"
 
 ################################## funfacts ###############################

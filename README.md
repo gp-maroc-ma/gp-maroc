@@ -44,7 +44,8 @@ docker-compose down
 ### Resources
 
 Hugo theme: 
-- [Demo Paige](https://willfaught.com/paige/)
-- [GitHub Repository](https://github.com/willfaught/paige)
+- [Demo Paige](https://bexer-hugo.vercel.app/)
+- [Theme Bexer](https://gethugothemes.com/products/bexer)
+- [Theme Bexer Documentation](https://docs.gethugothemes.com/bexer/)
 - [Official Hugo Docker Image - GitHub registry](https://github.com/gohugoio/hugo/pkgs/container/hugo)
 

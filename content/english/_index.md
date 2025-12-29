@@ -108,7 +108,7 @@ about:
   currently operating in 3 segments of the renewable energy sector: PV Solar Panels manufacturing, 
   PV Solar Parks and Operation & Maintenance of PV Solar Parks to revolutionizing the renewable energy sector 
   in Africa. <br><br>
-  The company is progressing toward its strategic objective of entering a new market segment within 
+  The GPM Holding is progressing toward its strategic objective of entering a new market segment within 
   the green polysilicon manufacturing value chain through the Sondiale project.  <br><br>
   Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
   already   operational and several others in the development phase progressing steadily. These projects showcase our 
@@ -134,7 +134,7 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "Companies in holding"
+    - name : "Entities in holding"
       count : "5"
       icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
       
@@ -193,12 +193,12 @@ team:
 
 ################################# project ############################################
 project:
-  enable : false
+  enable : true
   section: "project"
   show_item : 4
   button:
     enable : true
-    label : "more projects"
+    label : "more operating entities"
     link : "project/"
   # project item comes from "content/*/project" folder
 

@@ -11,7 +11,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "images/project/gpm-parks-image-7.jpg"
 image_link: "https://gpm-parks.gp-maroc.ma/"
 # client
-# client: "Australia"
+client: "Morocco"
 # project category
 category: "PV Solar Parks"
 # project status
@@ -22,7 +22,7 @@ GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully 
 Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant contribution to Morocco's green energy infrastructure.
 
 <div style="margin-top: 40px;">
-  <a href="https://gpm-parks.gp-maroc.ma/" class="btn btn-primary hover-ripple">Read More</a>
+  <a href="https://gpm-parks.gp-maroc.ma/" class="btn btn-primary hover-ripple">Discover GPM Parks</a>
 </div>
 
 

@@ -39,13 +39,13 @@ hasChildren = true
   [[main]]
   parent = "Our Entities"
   name = "GPM Parks"
-  url = "/"
+  url = "/project/gpm-parks"
   weight = 1
 
   [[main]]
   parent = "Our Entities"
   name = "Solaris"
-  url = "/"
+  url = "/project/solaristangier"
   weight = 2
 
   [[main]]
@@ -74,12 +74,12 @@ weight = 4
 # footer menu
 [[footer_menu]]
 name = "GPM Parks"
-url = "/project/gpm-parks.1"
+url = "/project/gpm-parks"
 weight = 1
 
 [[footer_menu]]
 name = "Solaris"
-url = "/"
+url = "/project/solaristangier"
 weight = 2
 
 [[footer_menu]]

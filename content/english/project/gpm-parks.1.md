@@ -9,6 +9,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # project image
 # image_webp: "images/project/project-6.webp"
 image: "images/project/gpm-parks-image-7.jpg"
+image_link: "https://gpm-parks.gp-maroc.ma/"
 # client
 # client: "Australia"
 # project category

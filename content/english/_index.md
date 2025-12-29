@@ -122,8 +122,8 @@ about:
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.jpg"
-  image : "images/about/about-us.jpg"
+  image_webp : "images/about/us-ma-flags-netzerocircle-org.png"
+  image : "images/about/us-ma-flags-netzerocircle-org.png"
   button:
     enable : true;
     label : "Contact us"
@@ -134,7 +134,7 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "companies in holding"
+    - name : "Companies in holding"
       count : "5"
       icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
       
@@ -144,14 +144,14 @@ funfacts :
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Committed funding, $M"
+    - name : "Committed funding, M"
       count : "650"
-      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-dollar-sign" # font-awesome 5 : https://fontawesome.com/icons/
       
-    # fanfacts item loop
-    - name : "Happy Coustomers"
-      count : "500"
-      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
+    # # fanfacts item loop
+    # - name : "Happy Coustomers"
+    #   count : "500"
+    #   icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
 
 
 ################################# feature ############################################

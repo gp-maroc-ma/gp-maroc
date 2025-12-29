@@ -17,6 +17,13 @@ category: "PV Solar Parks"
 # project status
 status : "In Process"
 ---
+#### What GPM Parks Does
+GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
+Utility-scale solar plants consist of thousands of photovoltaic panels installed on large tracts of land, supported by electrical infrastructure such as inverters, transformers, and substations. These systems are designed to operate for 25–30 years with minimal degradation.
+
+
+GPM Parks focuses on projects that are technically robust, environmentally responsible, and economically viable over the long term.
+
 
 GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac photovoltaic park. The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah prefecture.
 Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant contribution to Morocco's green energy infrastructure.

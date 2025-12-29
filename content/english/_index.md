@@ -22,8 +22,8 @@ hero_slider:
     - subtitle : "Solaris"
       title : "Advanced Photovoltaic Manufacturing"
       content : "High-performance solar panel production powered by cutting-edge technology and precision engineering."
-      bg_image_webp : "images/slider/drone_pictures_23.JPG"
-      bg_image : "images/slider/drone_pictures_23.JPG"
+      bg_image_webp : "images/slider/drone_pictures_23.jpg"
+      bg_image : "images/slider/drone_pictures_23.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true

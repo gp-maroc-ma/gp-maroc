@@ -80,7 +80,7 @@ banner_feature:
     # banner feature item loop
     - name : "Green Polysilicon Unit"
       icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "An annual production capacity of 30,000 tons."
+      content : "An annual polysilicon production capacity of 30,000 tons."
       
     # banner feature item loop
     - name : "High efficiency"

@@ -2,29 +2,37 @@
 title: "Our Terms And Conditions"
 draft: false
 # description
-description: "This is meta description"
+description: "The GPM Holding group maintains strict ownership over all original content published on these sites."
 ---
 
-#### Responsibility of Contributors
+By accessing the website **gp-maroc.ma** or any of its subsidiary landing pages, you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing these sites.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+### **2. Intellectual Property Rights**
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+The GPM Holding group maintains strict ownership over all original content published on these sites.
 
-#### Gathering of Personal Information
+* **Proprietary Media:** All high-resolution images, drone footage, production line videos, and technical documents are protected by international copyright laws.  
+* **Trademarks:** The logos for GPM Holding, Solaris, GPM Parks, and GPM Mobility are the exclusive property of the group. Unauthorized use or reproduction is strictly prohibited.  
+* **Technical Documents:** Datasheets, catalogs, and technical descriptions shared on the sites remain the intellectual property of the respective entity (e.g., Solaris for panel specifications).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+### **3. Use of External Links**
 
-#### Protection of  Personal- Information
+The GPM Holding website serves as a central hub and contains links to external landing pages with their own standalone domains (e.g., `solaristangier.ma`, `gpm-parks.ma`).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+* **Redirection:** Once you leave the GPM Holding site to visit an entity-specific domain, you are subject to the specific terms and policies of that landing page.  
+* **Third-Party Content:** GPM Holding is not responsible for the availability or accuracy of content hosted on external sites linked from our pages.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+### **4. Accuracy of Information**
 
-#### Privacy Policy Changes
+While we strive for precision, the content on these sites—particularly technical specifications and project solution descriptions—is provided for general informational purposes.
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+* **Updates:** Technical details and product descriptions are subject to change without notice as new technology becomes available.  
+* **Disclaimer:** GPM Holding does not warrant that the materials on its websites are accurate, complete, or current.
+
+### **5. Prohibited Conduct**
+
+Users are prohibited from:
+
+* Attempting to decompile or reverse engineer any software contained on the websites.  
+* Using the sites for any fraudulent or illegal purpose.  
+* Interfering with the security features of the secure, static architecture.

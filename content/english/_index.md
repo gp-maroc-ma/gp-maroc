@@ -22,8 +22,8 @@ hero_slider:
     - subtitle : "Solaris"
       title : "Advanced Photovoltaic Manufacturing"
       content : "High-performance solar panel production powered by cutting-edge technology and precision engineering."
-      bg_image_webp : "images/slider/drone_pictures_23.JPG"
-      bg_image : "images/slider/drone_pictures_23.JPG"
+      bg_image_webp : "images/slider/drone_pictures_23.jpg"
+      bg_image : "images/slider/drone_pictures_23.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -78,9 +78,9 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Slim module design"
+    - name : "Green Polysilicon Unit"
       icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Elegance and energy combined in a slim, space-saving profile."
+      content : "An annual production capacity of 30,000 tons."
       
     # banner feature item loop
     - name : "High efficiency"
@@ -102,18 +102,23 @@ banner_feature:
 about:
   enable : true
   subtitle : "About Us"
-  title : "We Are Dynamic Team and Solar Panels Business"
+  title : "We Are Dynamic Team"
   
-  content : "GPM Holding is a pioneering venture at the forefront of sustainable energy solutions. Specializing in the 
-  production and installation of solar panels, we are committed to revolutionizing the renewable energy sector in 
-  Africa. <br><br>Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
+  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy, 
+  currently operating in 3 segments of the renewable energy sector: PV Solar Panels manufacturing, 
+  PV Solar Parks and Operation & Maintenance of PV Solar Parks to revolutionizing the renewable energy sector 
+  in Africa. <br><br>
+  The company is progressing toward its strategic objective of entering a new market segment within 
+  the green polysilicon manufacturing value chain through the Sondiale project.  <br><br>
+  Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
   already   operational and several others in the development phase progressing steadily. These projects showcase our 
-  dedication   to empowering communities with clean energy solutions. <br><br>In tandem with our manufacturing and 
-  project development   endeavors, our service company delivers tailored solutions to meet the needs of both our valued 
-  clients and our own internal operations. From installation and maintenance to technical assistance, the services GPM 
-  provides ensure seamless functionality and unmatched customer satisfaction. <br><br>With a mission to harness the 
-  power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future of energy production while 
-  aligning itself with the Kingdom’s renewable energy goals."
+  dedication   to empowering communities with clean energy solutions. <br><br>
+  In tandem with our manufacturing and  project development   endeavors, our service company delivers tailored 
+  solutions to meet the needs of both our valued  clients and our own internal operations. From installation and 
+  maintenance to technical assistance, the services GPM   provides ensure seamless functionality and 
+  unmatched customer satisfaction. <br><br>
+  With a mission to harness the power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future 
+  of energy production while aligning itself with the Kingdom’s renewable energy goals."
   
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
@@ -129,18 +134,18 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "project done"
-      count : "50"
+    - name : "companies in holding"
+      count : "5"
       icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
     - name : "Years Experience"
-      count : "25"
+      count : "10"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Awards Win"
-      count : "250"
+    - name : "Committed funding, $M"
+      count : "650"
       icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
@@ -238,23 +243,22 @@ partners:
   subtitle : "PARTNERS"
   title : "Our Strategic Partners"
   partners_item:
-    # partners item loop
-    - partner_logo : "images/partners/partner-1.jpg"
-      name : "Advanced Material Solutions"
-      description : "Description"
-      content : "Description"
-      
-    # partners item loop
-    - partner_logo : "images/partners/partner-2.png"
-      name : "The U.S. International Development Finance Corporation"
-      description : "Description"
-      content : "Description"
+    
       
     # partners item loop
     - partner_logo : "images/partners/partner-3.png"
       name : "The Moroccan Agency for Investment and Export Development"
-      description : "Description"
-      content : "Description"
+      description : "[Visit site](https://amdie.gov.ma/)"    
+      
+    # partners item loop
+    - partner_logo : "images/partners/partner-2.png"
+      name : "The U.S. International Development Finance Corporation"
+      description : "[Visit site](https://www.dfc.gov/)"      
+    # partners item loop
+    - partner_logo : "images/partners/partner-1.jpg"
+      name : "Advanced Material Solutions"
+      description : "[Visit site](https://silicongases.com/polysilicon)"
+  
       
 ################################# blog ################################################
 blog:

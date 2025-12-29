@@ -22,6 +22,6 @@ weight = 2
 [fr.params]
 home = "Accueil"
 # footer content
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit. Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
+footer_content = "GPM Holding - is a pioneer venture at the forefront of sustainable energy, currently operating in 3 segments of the renewable energy sector: PV Solar Panels manufacturing, PV Solar Parks and Operation & Maintenance of PV Solar Parks to revolutionizing the renewable energy sector in Africa. Our mission is to continue to play an important role in supporting African countries’ ongoing global renewable energy development for the benefit of everyone. "
 # copyright
 copyright = "Copyright © GPM Holding, 2025 All rights reserved"

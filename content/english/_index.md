@@ -15,7 +15,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://gpm-parks.ma"
+        link : "project/gpm-parks"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -28,7 +28,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://solaristangier.ma"
+        link : "project/solaristangier"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -42,7 +42,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://gp-services.ma"
+        link : "project/gpm-services/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -55,7 +55,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://sondiale.ma"
+        link : "project/sondiale/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -69,7 +69,7 @@ hero_slider:
       button:
         enable : true
         label : "more details"
-        link : "http://gp-mobilite.ma"
+        link : "project/gpm-mobility/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
 
 ################################## banner feature ############################
@@ -80,7 +80,7 @@ banner_feature:
     # banner feature item loop
     - name : "Green Polysilicon Unit"
       icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "An annual production capacity of 30,000 tons."
+      content : "An annual polysilicon production capacity of 30,000 tons."
       
     # banner feature item loop
     - name : "High efficiency"
@@ -104,29 +104,26 @@ about:
   subtitle : "About Us"
   title : "We Are Dynamic Team"
   
-  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy, 
-  currently operating in 3 segments of the renewable energy sector: PV Solar Panels manufacturing, 
-  PV Solar Parks and Operation & Maintenance of PV Solar Parks to revolutionizing the renewable energy sector 
-  in Africa. <br><br>
-  The company is progressing toward its strategic objective of entering a new market segment within 
-  the green polysilicon manufacturing value chain through the Sondiale project.  <br><br>
-  Our focus extends beyond manufacturing to the development of PV plants, with one successful project 
-  already   operational and several others in the development phase progressing steadily. These projects showcase our 
-  dedication   to empowering communities with clean energy solutions. <br><br>
-  In tandem with our manufacturing and  project development   endeavors, our service company delivers tailored 
-  solutions to meet the needs of both our valued  clients and our own internal operations. From installation and 
-  maintenance to technical assistance, the services GPM   provides ensure seamless functionality and 
-  unmatched customer satisfaction. <br><br>
-  With a mission to harness the power of the sun for a brighter tomorrow, GreenPower Morocco is shaping the future 
-  of energy production while aligning itself with the Kingdom’s renewable energy goals."
+  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy. GPM Holding is a 
+  Morocco-based clean-energy and industrial platform focused on building, owning, and operating real assets across the 
+  renewable-energy value chain.<br><br>
+  The group operates across five complementary verticals: 
+  utility-scale solar power generation, solar panel manufacturing, advanced materials (polysilicon), solar services and maintenance, 
+  and clean-energy mobility solutions. <br><br>
   
+  Rather than focusing on a single project or technology, GPM Holding is structured 
+  as a long-term platform that develops physical infrastructure, industrial capacity, and local expertise. Each subsidiary operates 
+  independently but is strategically aligned to create synergies across energy production, manufacturing, and end-use applications.
+  The group’s activities are rooted in Morocco’s strong renewable-energy resources, political stability, and proximity to European 
+  and African markets."
+
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.jpg"
-  image : "images/about/about-us.jpg"
+  image_webp : "images/about/us-ma-flags-netzerocircle-org.png"
+  image : "images/about/us-ma-flags-netzerocircle-org.png"
   button:
     enable : true;
-    label : "more service"
+    label : "Contact us"
     link : "#contacts"
 
 ################################## funfacts ###############################
@@ -134,7 +131,7 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "companies in holding"
+    - name : "Entities in holding"
       count : "5"
       icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
       
@@ -144,14 +141,14 @@ funfacts :
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Committed funding, $M"
+    - name : "Committed funding, M"
       count : "650"
-      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
+      icon : "fas fa-dollar-sign" # font-awesome 5 : https://fontawesome.com/icons/
       
-    # fanfacts item loop
-    - name : "Happy Coustomers"
-      count : "500"
-      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
+    # # fanfacts item loop
+    # - name : "Happy Coustomers"
+    #   count : "500"
+    #   icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
 
 
 ################################# feature ############################################
@@ -193,12 +190,12 @@ team:
 
 ################################# project ############################################
 project:
-  enable : false
+  enable : true
   section: "project"
   show_item : 4
   button:
     enable : true
-    label : "more projects"
+    label : "more operating entities"
     link : "project/"
   # project item comes from "content/*/project" folder
 

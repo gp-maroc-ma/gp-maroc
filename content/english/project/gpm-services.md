@@ -1,5 +1,5 @@
 ---
-title: "Operations and Maintenance (O&M)"
+title: "Operations and Maintenance"
 date: 2015-02-07T10:47:55+06:00
 # meta description
 description: "this is meta description"

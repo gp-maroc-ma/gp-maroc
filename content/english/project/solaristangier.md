@@ -1,6 +1,6 @@
 ---
 title: "Solaris"
-date: 2020-02-07T10:47:55+06:00
+date: 2018-02-07T10:47:55+06:00
 # meta description
 description: "Solaris - harness the sun"
 # page title background image

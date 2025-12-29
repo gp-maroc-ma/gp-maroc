@@ -64,7 +64,7 @@ hasChildren = true
   [[main]]
   parent = "Our Entities"
   name = "GPM Mobility"
-  url = "/"
+  url = "project/gpm-mobility/"
   weight = 5
 
 [[main]]
@@ -95,7 +95,7 @@ weight = 4
 
 [[footer_menu]]
 name = "GPM Mobility"
-url = "gpm-mobility/"
+url = "project/gpm-mobility/"
 weight = 5
 
 # footer bottom links

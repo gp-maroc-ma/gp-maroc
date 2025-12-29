@@ -13,7 +13,7 @@ image_link: "https://gpm-parks.gp-maroc.ma/"
 # client
 client: "Morocco"
 # project category
-category: "PV Solar Parks"
+category: "Utility-scale solar power generation"
 # project status
 status : "In Process"
 ---

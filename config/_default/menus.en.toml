@@ -51,7 +51,7 @@ hasChildren = true
   [[main]]
   parent = "Our Entities"
   name = "Polysilicon"
-  url = "/"
+  url = "/project/sondiale/"
   weight = 3
 
   [[main]]
@@ -84,7 +84,7 @@ weight = 2
 
 [[footer_menu]]
 name = "Polysilicon"
-url = "/"
+url = "/project/sondiale/"
 weight = 3
 
 [[footer_menu]]

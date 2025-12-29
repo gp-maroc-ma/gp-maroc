@@ -13,7 +13,7 @@ image_link: "https://solaristangier.ma/"
 # client
 client: "Morocco"
 # project category
-category: "PV Solar Panels manufacturing"
+category: "Solar panel manufacturing"
 # project status
 status : "In Process"
 ---

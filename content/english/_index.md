@@ -239,16 +239,19 @@ partners:
     # partners item loop
     - partner_logo : "images/partners/partner-3.png"
       name : "The Moroccan Agency for Investment and Export Development"
-      description : "[Visit site](https://amdie.gov.ma/)"    
+      description : "AMDIE implements the national strategy for the development of investments and exports of products and services in Morocco."
+      link : "https://amdie.gov.ma/"    
       
     # partners item loop
     - partner_logo : "images/partners/partner-2.png"
       name : "The U.S. International Development Finance Corporation"
-      description : "[Visit site](https://www.dfc.gov/)"      
+      description : "DFC partners with the private sector to advance U.S. foreign policy and strengthen national security by mobilizing private capital around the world."
+      link : "https://www.dfc.gov/"      
     # partners item loop
     - partner_logo : "images/partners/partner-1.jpg"
       name : "Advanced Material Solutions"
-      description : "[Visit site](https://silicongases.com/polysilicon)"
+      description : "AMS and its principals have designed more than five generations of CVD reactors, with hundreds of units in operation throughout the world."
+      link : "https://silicongases.com/polysilicon"
   
       
 ################################# blog ################################################

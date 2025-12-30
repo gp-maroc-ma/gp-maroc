@@ -15,9 +15,19 @@
       <div class="col-lg-4 col-md-6 mb-5">
         <div class="partner-item text-center bg-white rounded p-4 h-100">
           <div class="partner-logo-container mb-4">
+            {{ if .link }}
+            <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">
+              <img loading="lazy" class="img-fluid partner-logo" src="{{ .partner_logo | absURL }}" alt="{{ .name }}">
+            </a>
+            {{ else }}
             <img loading="lazy" class="img-fluid partner-logo" src="{{ .partner_logo | absURL }}" alt="{{ .name }}">
+            {{ end }}
           </div>
+          {{ if .link }}
+          <h5 class="mb-2"><a href="{{ .link }}" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;">{{ .name }}</a></h5>
+          {{ else }}
           <h5 class="mb-2">{{ .name }}</h5>
+          {{ end }}
           <p class="text-primary mb-3">{{ .description | markdownify }}</p>
           <p class="text-muted">{{ .content | markdownify }}</p>
         </div>

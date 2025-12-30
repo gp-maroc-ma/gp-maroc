@@ -223,23 +223,22 @@ partners:
   subtitle : "PARTNERS"
   title : "Our Strategic Partners"
   partners_item:
-    # partners item loop
-    - partner_logo : "images/partners/partner-1.jpg"
-      name : "Advanced Material Solutions"
-      description : "Description"
-      content : "Description"
+     # partners item loop
+    - partner_logo : "images/partners/partner-3.png"
+      name : "L'Agence Marocaine de Développement des Investissements et des Exportations"
+      description : "L’AMDIE concrétise la stratégie nationale en terme de développement des investissements et des exportations des produits et services au Maroc."
+      link : "https://amdie.gov.ma/"    
       
     # partners item loop
     - partner_logo : "images/partners/partner-2.png"
-      name : "The U.S. International Development Finance Corporation"
-      description : "Description"
-      content : "Description"
-      
+      name : "Société de Financement du Développement International des États-Unis"
+      description : "La DFC s'associe au secteur privé pour faire progresser la politique étrangère des États-Unis et renforcer la sécurité nationale en mobilisant des capitaux privés dans le monde entier."
+      link : "https://www.dfc.gov/"      
     # partners item loop
-    - partner_logo : "images/partners/partner-3.png"
-      name : "The Moroccan Agency for Investment and Export Development"
-      description : "Description"
-      content : "Description"
+    - partner_logo : "images/partners/partner-1.jpg"
+      name : "Advanced Material Solutions"
+      description : "AMS et ses dirigeants ont conçu plus de cinq générations de réacteurs CVD, avec des centaines d'unités en service dans le monde entier."
+      link : "https://silicongases.com/polysilicon"
   
 ################################# blog ################################################
 cta:

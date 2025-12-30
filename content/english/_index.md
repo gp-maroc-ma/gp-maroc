@@ -177,9 +177,9 @@ service:
 
 ################################# team ##############################################
 team:
-  enable : false
+  enable : true
   section: "team"
-  show_item : 3
+  show_item : 6
   # team member comes from "content/*/team" folder
 
 ################################# project ############################################

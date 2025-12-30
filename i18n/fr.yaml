@@ -66,3 +66,6 @@
 
 - id: our_services
   translation: Nos Services
+
+- id: get_a_quote
+  translation: Obtenir un devis

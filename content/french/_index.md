@@ -240,7 +240,7 @@ cta:
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:
     enable : true
-    label : "get a quote"
+    label : "obtenir un devis"
     link : "contact/"
 
 ################################# blog ################################################

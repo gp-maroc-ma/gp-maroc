@@ -1,12 +1,12 @@
 ############# French navigation ##############
 # main menu
 [[main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "À propos"
 url = "#about"
 weight = 2
 
@@ -32,38 +32,39 @@ weight = 2
 
 [[main]]
 weight = 3
-name = "Our Entities"
+name = "Nos Entités"
+url = "project/"
 hasChildren = true
 
-[[main]]
-parent = "Our Entities"
-name = "GPM Parks"
-url = "/"
-weight = 1
+  [[main]]
+  parent = "Nos Entités"
+  name = "GPM Parks"
+  url = "project/gpm-parks"
+  weight = 1
 
-[[main]]
-parent = "Our Entities"
-name = "Solaris"
-url = "/"
-weight = 2
+  [[main]]
+  parent = "Nos Entités"
+  name = "Solaris"
+  url = "project/solaristangier"
+  weight = 2
 
-[[main]]
-parent = "Our Entities"
-name = "Polysilicon"
-url = "/"
-weight = 3
+  [[main]]
+  parent = "Nos Entités"
+  name = "Polysilicium"
+  url = "project/sondiale/"
+  weight = 3
 
-[[main]]
-parent = "Our Entities"
-name = "GPM Services"
-url = "/"
-weight = 4
+  [[main]]
+  parent = "Nos Entités"
+  name = "GPM Services"
+  url = "project/gpm-services/"
+  weight = 4
 
-[[main]]
-parent = "Our Entities"
-name = "GPM Mobility"
-url = "/"
-weight = 5
+  [[main]]
+  parent = "Nos Entités"
+  name = "GPM Mobility"
+  url = "project/gpm-mobility/"
+  weight = 5
 
 [[main]]
 name = "Contact"
@@ -73,36 +74,37 @@ weight = 4
 # footer menu
 [[footer_menu]]
 name = "GPM Parks"
-url = "/"
+url = "project/gpm-parks"
 weight = 1
 
 [[footer_menu]]
 name = "Solaris"
-url = "/"
+url = "project/solaristangier"
 weight = 2
 
 [[footer_menu]]
-name = "Polysilicon"
-url = "/"
+name = "Polysilicium"
+url = "project/sondiale/"
 weight = 3
 
 [[footer_menu]]
 name = "GPM Services"
-url = "/"
+url = "project/gpm-services/"
 weight = 4
 
 [[footer_menu]]
 name = "GPM Mobility"
-url = "/"
+url = "project/gpm-mobility/"
 weight = 5
 
 # footer bottom links
 [[footer]]
-name = "Terms of Service"
+name = "Conditions d'utilisation"
 url = "terms/"
 weight = 1
 
 [[footer]]
-name = "Privacy Policy"
+name = "Politique de confidentialité"
 url = "privacy-policy/"
 weight = 2
+

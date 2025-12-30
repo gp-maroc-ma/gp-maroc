@@ -104,18 +104,16 @@ about:
   subtitle : "About Us"
   title : "We Are Dynamic Team"
   
-  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy. GPM Holding is a 
-  Morocco-based clean-energy and industrial platform focused on building, owning, and operating real assets across the 
-  renewable-energy value chain.<br><br>
+  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy. 
+  GPM Holding is a Morocco-based clean-energy and industrial platform focused on building, owning, and operating real assets across the   renewable-energy value chain.<br><br>
+
   The group operates across five complementary verticals: 
-  utility-scale solar power generation, solar panel manufacturing, advanced materials (polysilicon), solar services and maintenance, 
-  and clean-energy mobility solutions. <br><br>
-  
+  utility-scale solar power generation, solar panel manufacturing, advanced materials (polysilicon), solar services and maintenance,   and clean-energy mobility solutions. <br><br>
+
   Rather than focusing on a single project or technology, GPM Holding is structured 
-  as a long-term platform that develops physical infrastructure, industrial capacity, and local expertise. Each subsidiary operates 
-  independently but is strategically aligned to create synergies across energy production, manufacturing, and end-use applications.
-  The group’s activities are rooted in Morocco’s strong renewable-energy resources, political stability, and proximity to European 
-  and African markets."
+  as a long-term platform that develops physical infrastructure, industrial capacity, and local expertise. Each subsidiary operates independently but is strategically aligned to create synergies across energy production, manufacturing, and end-use applications.  <br><br>
+  
+  The group’s activities are rooted in Morocco’s strong renewable-energy resources, political stability, and proximity to European and African markets."
 
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"

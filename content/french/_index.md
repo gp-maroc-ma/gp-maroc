@@ -103,18 +103,27 @@ banner_feature:
 ################################## about ####################################
 about:
   enable : true
-  subtitle : "About Us"
-  title : "We Are Dynamic Team and Business Agency"
-  content : "Excepteur sint occaecat cupidatat non proident sunt iculpa qui officia deserunt mollit anim est. laborum sed perspiciatis unde omnis natus error sit voluptatem accusantium."
+  subtitle : "À propos"
+  title : "Nous Sommes une Équipe Dynamique"
+  
+  content : "GPM Holding (Green Power Morocco) est un pionnier de l'énergie durable. 
+  Basée au Maroc, GPM Holding est une plateforme industrielle dédiée aux énergies propres, spécialisée dans la construction, la détention et l'exploitation d'actifs sur toute la chaîne de valeur des énergies renouvelables.<br><br>
+
+  Le groupe déploie ses activités autour de cinq axes stratégiques complémentaires : 
+  la production d'énergie solaire à grande échelle, la fabrication de panneaux photovoltaïques, les matériaux avancés (polysilicium), les services de maintenance solaire, et les solutions de mobilité verte.<br><br>
+
+  Conçue comme une plateforme à long terme plutôt que comme un projet isolé, GPM Holding développe des infrastructures physiques, des capacités industrielles et une expertise locale. Chaque filiale, bien qu'indépendante, s'aligne stratégiquement pour générer des synergies entre production d'énergie, fabrication et usages finaux.<br><br>
+  
+  L'ancrage du groupe repose sur les ressources exceptionnelles du Maroc en énergies renouvelables, sa stabilité politique et sa position stratégique aux portes de l'Europe et de l'Afrique."
+
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/about-us.webp"
-  image : "images/about/about-us.png"
+  image_webp : "images/about/us-ma-flags-netzerocircle-org.png"
+  image : "images/about/us-ma-flags-netzerocircle-org.png"
   button:
     enable : true;
-    label : "more service"
+    label : "Contactez-nous"
     link : "#contacts"
-
 ################################## funfacts ###############################
 funfacts :
   enable : true

@@ -13,8 +13,8 @@ hero_slider:
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "http://gpm-parks.ma"
+        label : "plus de détails"
+        link : "fr/project/gpm-parks"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -27,8 +27,8 @@ hero_slider:
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "http://solaristangier.ma"
+        label : "plus de détails"
+        link : "fr/project/solaristangier"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -41,8 +41,8 @@ hero_slider:
       animation : "fadeInLeft" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "http://gp-services.ma"
+        label : "plus de détails"
+        link : "fr/project/gpm-services/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -55,8 +55,8 @@ hero_slider:
       animation : "fadeInRight" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "http://sondiale.ma"
+        label : "plus de détails"
+        link : "fr/project/sondiale/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
@@ -69,8 +69,8 @@ hero_slider:
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
-        label : "more details"
-        link : "http://gp-mobilite.ma"
+        label : "plus de détails"
+        link : "fr/project/gpm-mobility/"
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
 

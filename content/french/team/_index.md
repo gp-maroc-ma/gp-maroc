@@ -1,5 +1,5 @@
 ---
-title : "Notre Équipe"
+title : "Notre ÉQUIPE PROJET"
 subtitle : "Nous Sommes une Équipe Dynamique"
 # meta description
 description: "Équipe du projet GPM Holding"

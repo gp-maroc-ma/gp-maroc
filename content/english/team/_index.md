@@ -1,5 +1,5 @@
 ---
-title : "Our Team"
+title : "Our Project Team"
 subtitle : "We Are Dynamic Team"
 # meta description
 description: "GPM Holiding project team"

@@ -2,34 +2,34 @@
 title: "GPM Parks"
 date: 2015-02-07T10:47:55+06:00
 # meta description
-description: "Industrial Excellence"
+description: "Excellence industrielle"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # project image
 # image_webp: "images/project/project-6.webp"
 image: "images/project/gpm-parks-image-7.jpg"
-image_link: "https://gpm-parks.gp-maroc.ma/"
+image_link: "https://gpm-parks.gp-maroc.ma/fr/"
 # client
-client: "Morocco"
+client: "Maroc"
 # project category
-category: "Utility-scale solar power generation"
+category: "Production d'énergie solaire à grande échelle"
 # project status
-status : "In Process"
+status : "En cours"
 ---
-#### What GPM Parks Does
-GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.
-Utility-scale solar plants consist of thousands of photovoltaic panels installed on large tracts of land, supported by electrical infrastructure such as inverters, transformers, and substations. These systems are designed to operate for 25–30 years with minimal degradation.
+#### Ce que fait GPM Parks
+GPM Parks développe, construit, détient et exploite des centrales solaires photovoltaïques à grande échelle. Ces centrales convertissent la lumière du soleil en électricité qui est livrée soit au réseau national, soit directement aux consommateurs industriels.
+Les centrales solaires à grande échelle se composent de milliers de panneaux photovoltaïques installés sur de vastes étendues de terrain, soutenus par une infrastructure électrique telle que des onduleurs, des transformateurs et des sous-stations. Ces systèmes sont conçus pour fonctionner pendant 25 à 30 ans avec une dégradation minimale.
 
 
-GPM Parks focuses on projects that are technically robust, environmentally responsible, and economically viable over the long term.
+GPM Parks se concentre sur des projets techniquement robustes, écologiquement responsables et économiquement viables sur le long terme.
 
 
-GPM Holding, through its subsidiary GreenPower Morocco 1 S.A., has successfully developed a 30 MWac photovoltaic park. The facility is located at Douar Daidaat, within the Hjar Ennhal commune of the Tangier-Asilah prefecture.
-Developed within the framework of Law 13-09 regarding renewable energies, the project represents a significant contribution to Morocco's green energy infrastructure.
+GPM Holding, à travers sa filiale GreenPower Morocco 1 S.A., a développé avec succès un parc photovoltaïque de 30 MWac. L'installation est située à Douar Daidaat, dans la commune de Hjar Ennhal de la préfecture de Tanger-Asilah.
+Développé dans le cadre de la loi 13-09 relative aux énergies renouvelables, le projet représente une contribution significative à l'infrastructure énergétique verte du Maroc.
 
 <div style="margin-top: 40px;">
-  <a href="https://gpm-parks.gp-maroc.ma/" class="btn btn-primary hover-ripple">Discover GPM Parks</a>
+  <a href="https://gpm-parks.gp-maroc.ma/fr/" class="btn btn-primary hover-ripple">Découvrir GPM Parks</a>
 </div>
 
 

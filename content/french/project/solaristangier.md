@@ -2,30 +2,30 @@
 title: "Solaris"
 date: 2018-02-07T10:47:55+06:00
 # meta description
-description: "Solaris - harness the sun"
+description: "Solaris - exploitez le soleil"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # project image
 # image_webp: "images/project/project-1.webp"
 image: "images/project/drone_pictures_22-solaristangier-s.jpg"
-image_link: "https://solaristangier.ma/"
+image_link: "https://solaristangier.ma/fr/"
 # client
-client: "Morocco"
+client: "Maroc"
 # project category
-category: "Solar panel manufacturing"
+category: "Fabrication de panneaux solaires"
 # project status
-status : "In Process"
+status : "En cours"
 ---
 
-Solaris is GPM Holding’s solar panel manufacturing platform. The facility is designed to assemble photovoltaic modules at industrial scale, supplying both domestic and export markets.
+Solaris est la plateforme de fabrication de panneaux solaires de GPM Holding. L'installation est conçue pour assembler des modules photovoltaïques à l'échelle industrielle, approvisionnant à la fois les marchés nationaux et d'exportation.
 
-#### Why Solar Panel Manufacturing Matters
-Local manufacturing reduces dependence on imported panels, shortens supply chains, lowers transportation emissions, enhances energy security, and supports industrial job creation.
+#### Pourquoi la fabrication de panneaux solaires est importante
+La fabrication locale réduit la dépendance aux panneaux importés, raccourcit les chaînes d'approvisionnement, réduit les émissions liées au transport, améliore la sécurité énergétique et soutient la création d'emplois industriels.
 
-#### Factory Capacity and Scope
-The Solaris facility is designed for annual production capacity of approximately 700 megawatts, high-volume standardized module assembly, quality control, and scalability.
+#### Capacité et portée de l'usine
+L'installation Solaris est conçue pour une capacité de production annuelle d'environ 700 mégawatts, un assemblage de modules standardisés à grand volume, un contrôle qualité et une évolutivité.
 
 <div style="margin-top: 40px;">
-  <a href="https://solaristangier.ma/" class="btn btn-primary hover-ripple">Discover Solaris</a>
+  <a href="https://solaristangier.ma/fr/" class="btn btn-primary hover-ripple">Découvrir Solaris</a>
 </div>

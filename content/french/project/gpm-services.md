@@ -1,27 +1,27 @@
 ---
-title: "Operations and Maintenance"
+title: "Opérations et Maintenance"
 date: 2015-02-07T10:47:55+06:00
 # meta description
-description: "this is meta description"
+description: "L'O&M comprend le nettoyage des panneaux, les inspections électriques, la maintenance des onduleurs, la surveillance des performances et la réparation des pannes."
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # project image
 image_webp: "images/project/solar-services-and-maintenance.webp"
 image: "images/project/solar-services-and-maintenance.jpeg"
-image_link: "https://gp-services.ma/"
+image_link: "https://gp-services.ma/fr/"
 # client
-client: "Morocco"
+client: "Maroc"
 # project category
-category: "solar services and maintenance"
+category: "services solaires et maintenance"
 # project status
-status : "In Process"
+status : "En cours"
 ---
 
-Operations and Maintenance (O&M) includes panel cleaning, electrical inspections, inverter maintenance, performance monitoring, and fault repair.
-Regular cleaning restores performance and extends asset life, particularly in arid environments.
+Les opérations et la maintenance (O&M) comprennent le nettoyage des panneaux, les inspections électriques, la maintenance des onduleurs, la surveillance des performances et la réparation des pannes.
+Un nettoyage régulier rétablit les performances et prolonge la durée de vie des actifs, en particulier dans les environnements arides.
 
 
 <div style="margin-top: 40px;">
-  <a href="https://gp-services.ma/" class="btn btn-primary hover-ripple">Discover GPM Services</a>
+  <a href="https://gp-services.ma/fr/" class="btn btn-primary hover-ripple">Découvrir GPM Services</a>
 </div>

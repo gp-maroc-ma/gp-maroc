@@ -2,7 +2,7 @@
 title: "GPM Mobility"
 date: 2015-01-07T10:47:55+06:00
 # meta description
-description: "this is meta description"
+description: "applies enewable energy to electric transportation solutions"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
@@ -18,7 +18,7 @@ category: "Clean-energy mobility"
 status : "In Process"
 ---
 
-GPM Mobility applies renewable energy to electric transportation solutions.
+rGPM Mobility applies enewable energy to electric transportation solutions.
 
 #### The Green Corridor Concept
 The Green Corridor envisions solar-powered battery swapping infrastructure for electric freight vehicles operating along major transport routes.

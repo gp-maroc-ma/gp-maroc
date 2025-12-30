@@ -1,8 +1,8 @@
 ---
-subtitle : "GPM Holding Case Studies"
-title : "Case Study"
+subtitle : "Entités de GPM Holding"
+title : "Entité"
 # meta description
-description: "this is meta description"
+description: "entités"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"

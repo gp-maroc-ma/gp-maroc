@@ -104,18 +104,16 @@ about:
   subtitle : "About Us"
   title : "We Are Dynamic Team"
   
-  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy. GPM Holding is a 
-  Morocco-based clean-energy and industrial platform focused on building, owning, and operating real assets across the 
-  renewable-energy value chain.<br><br>
+  content : "GPM Holding (Green Power Morocco) is a pioneer venture at the forefront of sustainable energy. 
+  GPM Holding is a Morocco-based clean-energy and industrial platform focused on building, owning, and operating real assets across the renewable-energy value chain.<br><br>
+
   The group operates across five complementary verticals: 
-  utility-scale solar power generation, solar panel manufacturing, advanced materials (polysilicon), solar services and maintenance, 
-  and clean-energy mobility solutions. <br><br>
-  
+  utility-scale solar power generation, solar panel manufacturing, advanced materials (polysilicon), solar services and maintenance,   and clean-energy mobility solutions. <br><br>
+
   Rather than focusing on a single project or technology, GPM Holding is structured 
-  as a long-term platform that develops physical infrastructure, industrial capacity, and local expertise. Each subsidiary operates 
-  independently but is strategically aligned to create synergies across energy production, manufacturing, and end-use applications.
-  The group’s activities are rooted in Morocco’s strong renewable-energy resources, political stability, and proximity to European 
-  and African markets."
+  as a long-term platform that develops physical infrastructure, industrial capacity, and local expertise. Each subsidiary operates independently but is strategically aligned to create synergies across energy production, manufacturing, and end-use applications.  <br><br>
+  
+  The group’s activities are rooted in Morocco’s strong renewable-energy resources, political stability, and proximity to European and African markets."
 
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
@@ -141,7 +139,7 @@ funfacts :
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Committed funding, M"
+    - name : "Committed funding, (M)"
       count : "650"
       icon : "fas fa-dollar-sign" # font-awesome 5 : https://fontawesome.com/icons/
       
@@ -158,21 +156,17 @@ feature:
   title : "Why They Choose GPM Holding"
   image_webp : "images/feature/bg_about_01.jpg"
   image : "images/feature/bg_about_01.jpg"
-  content : "Our focus centers on innovation. We believe, in offering the most innovative products, we can provide our 
-  customers with ease and access to reliable and bespoke sustainable solutions."
+  content : "GPM Holding offers a unique, vertically integrated platform that combines industrial capacity, local expertise, and strategic synergies across the entire renewable energy value chain."
   feature_item:
     # feature item loop
-    - name : "Creative Design"
-      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "By combining physical tempering technology with a unique solar module design concept, our panels are 
-      proven to withstand longer lifetimes with better electrical efficiencies."
+    - name : "Integrated Synergies"
+      icon : "fas fa-project-diagram" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Each subsidiary operates independently but is strategically aligned to create synergies across energy production, manufacturing, and end-use applications."
       
     # feature item loop
-    - name : "Innovative Solutions"
-      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "The advanced technology behind our dual-glass photovoltaic modules position us to 
-      provide our customers with a flawless integration of sleek design, guaranteed durability and long-term, 
-      cost-effective sustainable solutions"
+    - name : "Strategic Positioning"
+      icon : "fas fa-globe-africa" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "The group’s activities are rooted in Morocco’s strong renewable-energy resources, political stability, and proximity to European and African markets."
 
 ################################# service ############################################
 service:
@@ -183,9 +177,9 @@ service:
 
 ################################# team ##############################################
 team:
-  enable : false
+  enable : true
   section: "team"
-  show_item : 3
+  show_item : 6
   # team member comes from "content/*/team" folder
 
 ################################# project ############################################
@@ -245,16 +239,19 @@ partners:
     # partners item loop
     - partner_logo : "images/partners/partner-3.png"
       name : "The Moroccan Agency for Investment and Export Development"
-      description : "[Visit site](https://amdie.gov.ma/)"    
+      description : "AMDIE implements the national strategy for the development of investments and exports of products and services in Morocco."
+      link : "https://amdie.gov.ma/"    
       
     # partners item loop
     - partner_logo : "images/partners/partner-2.png"
       name : "The U.S. International Development Finance Corporation"
-      description : "[Visit site](https://www.dfc.gov/)"      
+      description : "DFC partners with the private sector to advance U.S. foreign policy and strengthen national security by mobilizing private capital around the world."
+      link : "https://www.dfc.gov/"      
     # partners item loop
     - partner_logo : "images/partners/partner-1.jpg"
       name : "Advanced Material Solutions"
-      description : "[Visit site](https://silicongases.com/polysilicon)"
+      description : "AMS and its principals have designed more than five generations of CVD reactors, with hundreds of units in operation throughout the world."
+      link : "https://silicongases.com/polysilicon"
   
       
 ################################# blog ################################################

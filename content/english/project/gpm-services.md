@@ -2,7 +2,7 @@
 title: "Operations and Maintenance"
 date: 2015-02-07T10:47:55+06:00
 # meta description
-description: "this is meta description"
+description: "O&M includes panel cleaning, electrical inspections, inverter maintenance, performance monitoring, and fault repair."
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"

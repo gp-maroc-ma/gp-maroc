@@ -220,8 +220,8 @@ testimonial:
 ################################# partners #########################################
 partners:
   enable : true
-  subtitle : "PARTNERS"
-  title : "Our Strategic Partners"
+  subtitle : "PARTENAIRES"
+  title : "Nos Partenaires Stratégiques"
   partners_item:
      # partners item loop
     - partner_logo : "images/partners/partner-3.png"
@@ -243,7 +243,7 @@ partners:
 ################################# blog ################################################
 cta:
   enable : true
-  title : "GPM Holding give the smart solution for your business"
+  title : "GPM Holding offre la solution intelligente pour votre entreprise"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"
   button:
@@ -253,7 +253,7 @@ cta:
 
 ################################# blog ################################################
 blog:
-  enable : true
+  enable : false
   section : "blog"
   show_item : 3
   # blog post comes from "content/*/blog" folder

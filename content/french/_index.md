@@ -80,24 +80,24 @@ banner_feature:
   # Max use 4 item
   feature_item:
     # banner feature item loop
-    - name : "Business Solution"
+    - name : "Unité de Polysilicium Vert"
       icon : "far fa-gem" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Une capacité de production de polysilicium annuelle de 30 000 tonnes."
       
     # banner feature item loop
-    - name : "Market Research"
+    - name : "Haute efficacité"
       icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Capturez plus de lumière solaire et générez le maximum de puissance avec chaque panneau."
       
     # banner feature item loop
-    - name : "Business Strategy"
+    - name : "Écologique"
       icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Alimentez votre vie avec une énergie propre qui protège notre planète.<br><br>"
       
     # banner feature item loop
-    - name : "Speed Optimization"
+    - name : "Réduire les Coûts d'Expédition"
       icon : "fas fa-tachometer-alt" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      content : "Conçu pour l'efficacité, des coûts réduits de notre usine à votre toit."
 
 
 ################################## about ####################################

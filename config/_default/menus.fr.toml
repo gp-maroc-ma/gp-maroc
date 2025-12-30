@@ -103,8 +103,8 @@ name = "Conditions d'utilisation"
 url = "terms/"
 weight = 1
 
-[[footer]]
-name = "Politique de confidentialité"
-url = "privacy-policy/"
-weight = 2
+#[[footer]]
+#name = "Politique de confidentialité"
+#url = "privacy-policy/"
+#weight = 2
 

@@ -189,7 +189,7 @@ project:
   show_item : 4
   button:
     enable : true
-    label : "more projects"
+    label : "plus d'entités opérationnelles"
     link : "project/"
   # project item comes from "content/*/project" folder
 

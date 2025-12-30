@@ -129,24 +129,24 @@ funfacts :
   enable : true
   funfacts_item :
     # fanfacts item loop
-    - name : "project done"
-      count : "50"
+    - name : "Entités du Holding"
+      count : "5"
       icon : "fas fa-bullseye" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Years Experience"
-      count : "25"
+    - name : "Années d'Expérience"
+      count : "10"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Awards Win"
-      count : "250"
-      icon : "fas fa-award" # font-awesome 5 : https://fontawesome.com/icons/
+    - name : "Financement Engagé (M)"
+      count : "650"
+      icon : "fas fa-dollar-sign" # font-awesome 5 : https://fontawesome.com/icons/
       
-    # fanfacts item loop
-    - name : "Happy Coustomers"
-      count : "500"
-      icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
+    # # fanfacts item loop
+    # - name : "Happy Coustomers"
+    #   count : "500"
+    #   icon : "far fa-smile" # font-awesome 5 : https://fontawesome.com/icons/
 
 
 ################################# feature ############################################

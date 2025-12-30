@@ -139,7 +139,7 @@ funfacts :
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
     # fanfacts item loop
-    - name : "Committed funding, M"
+    - name : "Committed funding, (M)"
       count : "650"
       icon : "fas fa-dollar-sign" # font-awesome 5 : https://fontawesome.com/icons/
       

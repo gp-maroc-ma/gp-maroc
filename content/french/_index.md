@@ -152,25 +152,25 @@ funfacts :
 ################################# feature ############################################
 feature:
   enable : true
-  subtitle : "Why Choose Us"
-  title : "Why They Choose Bexar"
-  image_webp : "images/feature/feature.webp"
-  image : "images/feature/feature.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
+  subtitle : "Pourquoi nous choisir"
+  title : "Pourquoi choisir GPM Holding"
+  image_webp : "images/feature/bg_about_01.jpg"
+  image : "images/feature/bg_about_01.jpg"
+  content : "GPM Holding offre une plateforme unique et verticalement intégrée qui combine capacité industrielle, expertise locale et synergies stratégiques sur l'ensemble de la chaîne de valeur des énergies renouvelables."
   feature_item:
     # feature item loop
-    - name : "Creative Design"
-      icon : "far fa-snowflake" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+    - name : "Synergies Intégrées"
+      icon : "fas fa-project-diagram" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Chaque filiale opère de manière indépendante mais est stratégiquement alignée pour créer des synergies entre la production d'énergie, la fabrication et les applications finales."
       
     # feature item loop
-    - name : "Pixel Perfect Coding"
-      icon : "fas fa-code" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+    - name : "Positionnement Stratégique"
+      icon : "fas fa-globe-africa" # font-awesome 5 : https://fontawesome.com/icons/
+      content : "Les activités du groupe sont ancrées dans les fortes ressources en énergies renouvelables du Maroc, sa stabilité politique et sa proximité avec les marchés européens et africains."
 
 ################################# service ############################################
 service:
-  enable : true
+  enable : false
   section: "service"
   show_item : 3
   # service item comes from "content/*/service" folder

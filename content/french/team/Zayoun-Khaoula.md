@@ -10,7 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # image_webp: "images/team/team-2.webp"
 image: "images/team/Zayoun-Khaoula.jpeg"
 # designation
-designation: "Directrice Générale"
+designation: "Directrice Générale Adjointe GPM Holding"
 social:
   # - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/icons/
   #   link : "#"

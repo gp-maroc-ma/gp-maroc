@@ -38,7 +38,7 @@ social:
 ---
 
 #### Commercial et prospecteur du marché vert
-FKhalid Bouhriz occupe le poste de la commercialisation et la prospection du marché vert, l’identification d’off-takers industriels et la certification internationale de parcs solaires GPM notamment I-REC (International Renewable Energy Certificates) et crédits carbone dont la première mise en opération du parc solaire GPM 1 (30 MW) situé à Tanger. 
+Khalid Bouhriz occupe le poste de la commercialisation et la prospection du marché vert, l’identification d’off-takers industriels et la certification internationale de parcs solaires GPM notamment I-REC (International Renewable Energy Certificates) et crédits carbone dont la première mise en opération du parc solaire GPM 1 (30 MW) situé à Tanger. 
 
 Il est diplômé de SKEMA Business School – Sophia Antipolis, il œuvre activement au développement et à la valorisation des projets d’énergie verte sur le marché international.
 

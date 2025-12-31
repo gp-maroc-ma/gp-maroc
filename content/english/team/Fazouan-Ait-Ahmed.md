@@ -37,7 +37,7 @@ social:
 #   percentage : 95%
 ---
 
-#### Logistics Manager – GPM Holding (since 2017).
+#### Logistics Manager – GPM Holding (since 2017)
 Fazouan has been Logistics Manager at GPM Holding since 2017. He manages all import/export logistics flows, coordinating with freight forwarders, carriers, port and customs authorities, particularly at the port of Tangier Med. He contributed to improving the work environment before the start of construction for the GPM1 project, particularly on the social level. His main achievements include his role from the construction of the Al Hoceima photovoltaic plant, the logistical and social management of the GPM1 project, as well as the logistical supervision of the solar panel assembly plant in Tangier.
 
 Before that, he worked as a Station Manager at Tangier Med with TMSA, developing solid expertise in port and maritime operations.

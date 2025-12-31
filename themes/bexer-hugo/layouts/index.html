@@ -267,7 +267,17 @@
 
       <div class="col-md-7">
         <h3 class="section-title text-center text-md-left">{{ i18n "contact_form" }}</h3>
-        <form action="{{ site.Params.contact_form_action }}" method="POST" class="row">
+        <script>let submitted=false;</script>
+        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {
+          window.location='{{ $.Params.contact.response_page | absURL }}';
+          document.getElementById('form-messages').style.display = 'inline-block';
+          document.getElementById('contact-form').reset();
+          setTimeout(function() {
+            document.getElementById('form-messages').style.display = 'none';
+          }, 5000);
+        }"></iframe>
+
+        <form id="contact-form" action="{{ site.Params.contact_form_action }}" method="POST" class="row" target="hidden_iframe"  onsubmit="submitted=true">
           {{ range $.Params.contact.form_fields }}
           {{ "<!-- contact item -->" | safeHTML }}
           {{ if eq .type "textarea" }}
@@ -278,7 +288,7 @@
           </div>
           {{ else if eq .type "input" }}
             <div class="col-md-6" {{ if .hidden }} style="display:none" {{ end }}>
-              <input type="text" name="{{ .name }}" id="{{ .id }}" class="form-control border-0 rounded-0 box-shadow mb-4"
+              <input type="{{ .input_type | default "text" }}" name="{{ .name }}" id="{{ .id }}" class="form-control border-0 rounded-0 box-shadow mb-4"
                      placeholder="{{ .placeholder }}" maxlength="{{ .maxlength }}"
                        {{ if .required }} required {{ end }}>
             </div>
@@ -288,10 +298,12 @@
           </select>
           {{ end }}
           {{ end }}
-          <div class="col-12 text-center text-md-left">
-            <button type="submit" value="send" class="btn btn-primary hover-ripple">{{ i18n "send" }}</button>
+          <div class="col-12 text-center text-md-left d-flex align-items-center flex-column flex-md-row">
+            <button type="submit" value="send" class="btn btn-primary hover-ripple mb-3 mb-md-0">{{ i18n "send" }}</button>
+            <div id="form-messages" style="display: none;" class="alert alert-success ml-md-3" role="alert">{{ i18n "contact_form_send" }}</div>
           </div>
         </form>
+
       </div>
       {{ end }}
     </div>

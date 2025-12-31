@@ -272,18 +272,18 @@
           {{ "<!-- contact item -->" | safeHTML }}
           {{ if eq .type "textarea" }}
           <div class="col-12">
-            <textarea name="{{ .name }}" class="form-control border-0 rounded-0 box-shadow mb-5 py-3 px-4"
+            <textarea name="{{ .name }}" id="{{ .id }}" class="form-control border-0 rounded-0 box-shadow mb-5 py-3 px-4"
                       placeholder="{{ .placeholder }}" maxlength="{{ .maxlength }}"
                       {{ if .required }} required {{ end }}></textarea>
           </div>
           {{ else if eq .type "input" }}
             <div class="col-md-6" {{ if .hidden }} style="display:none" {{ end }}>
-              <input type="text" name="{{ .name }}" class="form-control border-0 rounded-0 box-shadow mb-4"
+              <input type="text" name="{{ .name }}" id="{{ .id }}" class="form-control border-0 rounded-0 box-shadow mb-4"
                      placeholder="{{ .placeholder }}" maxlength="{{ .maxlength }}"
                        {{ if .required }} required {{ end }}>
             </div>
           {{ else if eq .id "language" }}
-          <select class="form-input" name="{{ .name }}" {{ if .hidden }} style="display:none" {{ end }}>
+          <select class="form-input" name="{{ .name }}" id="{{ .id }}" {{ if .hidden }} style="display:none" {{ end }}>
             <option class="" value="{{ .default }}" selected>{{ .default }}</option>
           </select>
           {{ end }}

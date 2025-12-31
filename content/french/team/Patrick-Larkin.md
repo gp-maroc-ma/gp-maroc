@@ -40,7 +40,7 @@ social:
 #### Conseiller Financier Senior
 Patrick a plus de 20 ans d'expérience en tant qu'investisseur et gestionnaire d'actifs dans la structuration/restructuration de financements, la négociation, l'exécution et la gestion de transactions dans les régions européennes, au Moyen-Orient et en Afrique. 
 
-Il dispose d’une vaste expérience dans le secteur de l'investissement dans les énergies renouvelables. Titulaire d'un MBA du Trinity College de Dublin
+Il dispose d’une vaste expérience dans le secteur de l'investissement dans les énergies renouvelables. Titulaire d'un MBA du Trinity College de Dublin.
 
 
 

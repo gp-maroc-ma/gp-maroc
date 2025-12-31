@@ -246,7 +246,8 @@
 {{ end }}
 {{ "<!-- /blog -->" | safeHTML }}
 
-
+{{ with .Params.contact }}
+{{ if .enable }}
 {{ "<!-- contact form and map -->" | safeHTML }}
 <section id="contacts" class="section">
   <div class="container">
@@ -264,34 +265,52 @@
       </div>
       {{ end }}
 
-
       <div class="col-md-7">
         <h3 class="section-title text-center text-md-left">{{ i18n "contact_form" }}</h3>
-        <form action="{{ site.Params.contact_form_action }}" method="POST" class="row">
-          <div class="col-md-6">
-            <input type="text" name="name" id="name" class="form-control border-0 rounded-0 box-shadow mb-4" placeholder="Name">
-          </div>
-          <div class="col-md-6">
-            <input type="email" name="mail" id="mail" class="form-control border-0 rounded-0 box-shadow mb-4" placeholder="Email">
-          </div>
-          <div class="col-md-6">
-            <input type="text" name="phone" id="phone" class="form-control border-0 rounded-0 box-shadow mb-4" placeholder="Phone">
-          </div>
-          <div class="col-md-6">
-            <input type="text" name="subject" id="subject" class="form-control border-0 rounded-0 box-shadow mb-4" placeholder="Subject">
-          </div>
+        <script>let submitted=false;</script>
+        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {
+          window.location='{{ $.Params.contact.response_page | absURL }}';
+          document.getElementById('form-messages').style.display = 'inline-block';
+          document.getElementById('contact-form').reset();
+          setTimeout(function() {
+            document.getElementById('form-messages').style.display = 'none';
+          }, 5000);
+        }"></iframe>
+
+        <form id="contact-form" action="{{ site.Params.contact_form_action }}" method="POST" class="row" target="hidden_iframe"  onsubmit="submitted=true">
+          {{ range $.Params.contact.form_fields }}
+          {{ "<!-- contact item -->" | safeHTML }}
+          {{ if eq .type "textarea" }}
           <div class="col-12">
-            <textarea name="message" id="message" class="form-control border-0 rounded-0 box-shadow mb-5 py-3 px-4" placeholder="Your Message"></textarea>
+            <textarea name="{{ .name }}" id="{{ .id }}" class="form-control border-0 rounded-0 box-shadow mb-5 py-3 px-4"
+                      placeholder="{{ .placeholder }}" maxlength="{{ .maxlength }}"
+                      {{ if .required }} required {{ end }}></textarea>
           </div>
-          <div class="col-12 text-center text-md-left">
-            <button type="submit" value="send" class="btn btn-primary hover-ripple">{{ i18n "send" }}</button>
+          {{ else if eq .type "input" }}
+            <div class="col-md-6" {{ if .hidden }} style="display:none" {{ end }}>
+              <input type="{{ .input_type | default "text" }}" name="{{ .name }}" id="{{ .id }}" class="form-control border-0 rounded-0 box-shadow mb-4"
+                     placeholder="{{ .placeholder }}" maxlength="{{ .maxlength }}"
+                       {{ if .required }} required {{ end }}>
+            </div>
+          {{ else if eq .id "language" }}
+          <select class="form-input" name="{{ .name }}" id="{{ .id }}" {{ if .hidden }} style="display:none" {{ end }}>
+            <option class="" value="{{ .default }}" selected>{{ .default }}</option>
+          </select>
+          {{ end }}
+          {{ end }}
+          <div class="col-12 text-center text-md-left d-flex align-items-center flex-column flex-md-row">
+            <button type="submit" value="send" class="btn btn-primary hover-ripple mb-3 mb-md-0">{{ i18n "send" }}</button>
+            <div id="form-messages" style="display: none;" class="alert alert-success ml-md-3" role="alert">{{ i18n "contact_form_send" }}</div>
           </div>
         </form>
+
       </div>
       {{ end }}
     </div>
   </div>
 </section>
+{{ end }}
+{{ end }}
 {{ "<!-- /contact form and map -->" | safeHTML }}
 
 {{ end }}

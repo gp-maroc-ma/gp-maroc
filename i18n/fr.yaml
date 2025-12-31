@@ -13,6 +13,9 @@
 - id: contact_form
   translation: Formulaire de contact
 
+- id: contact_form_send
+  translation: Merci pour votre message
+
 - id: send
   translation: envoyer le message
 

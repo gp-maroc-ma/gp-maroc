@@ -1,5 +1,4 @@
 ---
-
 ########################### hero slider ############################
 hero_slider:
   enable : true
@@ -266,4 +265,78 @@ contact:
   enable : true
   image : "images/globe.jpg"
   
+  form_fields:
+    # form item
+    - id: "name"
+      label: "Name"
+      type: input
+      input_type: text
+      placeholder: "Name *"
+      name: "entry.1"
+      maxlength: 255
+      required: true
+  
+    # form item
+    - id:  "email"
+      label: "Email"
+      type: input
+      input_type: email
+      placeholder: "Email *"
+      name: "emailAddress"
+      pattern: '^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$'
+      maxlength: 255
+      required: true
+  
+    # form item
+    - id:  "confirm_email"
+      label: "Confirm Email"
+      type: input
+      input_type: email
+      placeholder: "Confirm Email *"
+      name: "entry.3"
+      pattern: '^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$'
+      maxlength: 255
+      required: false
+      hidden: true
+  
+    # form item
+    - id:  "phone"
+      label: "Phone"
+      type: input
+      input_type: text
+      placeholder: "Phone"
+      name: "entry.4"
+      maxlength: 15
+      required: false
+  
+    # form item
+    - id:  "subject"
+      label: "Subject"
+      type: input
+      input_type: text
+      placeholder: "Subject"
+      name: "entry.5"
+      maxlength: 255
+      required: false
+  
+    # form item
+    - id:  "message"
+      label: "Message"
+      type: textarea
+      input_type: text
+      placeholder: "Your Message *"
+      name: "entry.6"
+      maxlength: 400
+      required: true
+  
+    # form item
+    - id : "language"
+      label: "Language"
+      type: select
+      input_type: text
+      placeholder: "Language"
+      name: "entry.7"
+      required: false
+      hidden: true
+      default: "EN"
 ---

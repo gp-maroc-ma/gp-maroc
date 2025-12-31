@@ -246,7 +246,8 @@
 {{ end }}
 {{ "<!-- /blog -->" | safeHTML }}
 
-
+{{ with .Params.contact }}
+{{ if .enable }}
 {{ "<!-- contact form and map -->" | safeHTML }}
 <section id="contacts" class="section">
   <div class="container">
@@ -264,25 +265,29 @@
       </div>
       {{ end }}
 
-
       <div class="col-md-7">
         <h3 class="section-title text-center text-md-left">{{ i18n "contact_form" }}</h3>
         <form action="{{ site.Params.contact_form_action }}" method="POST" class="row">
-          <div class="col-md-6">
-            <input type="text" name="name" id="name" class="form-control border-0 rounded-0 box-shadow mb-4" placeholder="Name">
-          </div>
-          <div class="col-md-6">
-            <input type="email" name="mail" id="mail" class="form-control border-0 rounded-0 box-shadow mb-4" placeholder="Email">
-          </div>
-          <div class="col-md-6">
-            <input type="text" name="phone" id="phone" class="form-control border-0 rounded-0 box-shadow mb-4" placeholder="Phone">
-          </div>
-          <div class="col-md-6">
-            <input type="text" name="subject" id="subject" class="form-control border-0 rounded-0 box-shadow mb-4" placeholder="Subject">
-          </div>
+          {{ range $.Params.contact.form_fields }}
+          {{ "<!-- contact item -->" | safeHTML }}
+          {{ if eq .type "textarea" }}
           <div class="col-12">
-            <textarea name="message" id="message" class="form-control border-0 rounded-0 box-shadow mb-5 py-3 px-4" placeholder="Your Message"></textarea>
+            <textarea name="{{ .name }}" class="form-control border-0 rounded-0 box-shadow mb-5 py-3 px-4"
+                      placeholder="{{ .placeholder }}" maxlength="{{ .maxlength }}"
+                      {{ if .required }} required {{ end }}></textarea>
           </div>
+          {{ else if eq .type "input" }}
+            <div class="col-md-6" {{ if .hidden }} style="display:none" {{ end }}>
+              <input type="text" name="{{ .name }}" class="form-control border-0 rounded-0 box-shadow mb-4"
+                     placeholder="{{ .placeholder }}" maxlength="{{ .maxlength }}"
+                       {{ if .required }} required {{ end }}>
+            </div>
+          {{ else if eq .id "language" }}
+          <select class="form-input" name="{{ .name }}" {{ if .hidden }} style="display:none" {{ end }}>
+            <option class="" value="{{ .default }}" selected>{{ .default }}</option>
+          </select>
+          {{ end }}
+          {{ end }}
           <div class="col-12 text-center text-md-left">
             <button type="submit" value="send" class="btn btn-primary hover-ripple">{{ i18n "send" }}</button>
           </div>
@@ -292,6 +297,8 @@
     </div>
   </div>
 </section>
+{{ end }}
+{{ end }}
 {{ "<!-- /contact form and map -->" | safeHTML }}
 
 {{ end }}

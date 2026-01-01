@@ -116,8 +116,8 @@ about:
 
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/us-ma-flags-netzerocircle-org.png"
-  image : "images/about/us-ma-flags-netzerocircle-org.png"
+  image_webp : "images/about/us-ma-flags-netzerocircle-org.webp"
+  image : "images/about/us-ma-flags-netzerocircle-org.jpeg"
   button:
     enable : true;
     label : "Contact us"

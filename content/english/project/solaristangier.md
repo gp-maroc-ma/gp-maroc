@@ -7,7 +7,7 @@ description: "Solaris - harness the sun"
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # project image
-# image_webp: "images/project/project-1.webp"
+image_webp: "images/project/drone_pictures_22-solaristangier-s.webp"
 image: "images/project/drone_pictures_22-solaristangier-s.jpg"
 image_link: "https://solaristangier.ma/"
 # client

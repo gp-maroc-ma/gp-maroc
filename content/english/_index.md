@@ -21,7 +21,7 @@ hero_slider:
     - subtitle : "Solaris"
       title : "Advanced Photovoltaic Manufacturing"
       content : "High-performance solar panel production powered by cutting-edge technology and precision engineering."
-      bg_image_webp : "images/slider/drone_pictures_23.jpg"
+      bg_image_webp : "images/slider/drone_pictures_23.webp"
       bg_image : "images/slider/drone_pictures_23.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -62,7 +62,7 @@ hero_slider:
       title : "Powering the Electric Future"
       content : "Building the essential infrastructure for electric vehicle charging and a sustainable transport 
       ecosystem."
-      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.jpg"
+      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.webp"
       bg_image : "images/slider/electric-cars-parking-lot-charging.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -153,8 +153,8 @@ feature:
   enable : true
   subtitle : "Why Choose Us"
   title : "Why They Choose GPM Holding"
-  image_webp : "images/feature/bg_about_01.jpg"
-  image : "images/feature/bg_about_01.jpg"
+  image_webp : "images/feature/value-chain-silicon_en.webp"
+  image : "images/feature/value-chain-silicon_en.jpeg"
   content : "GPM Holding offers a unique, vertically integrated platform that combines industrial capacity, local expertise, and strategic synergies across the entire renewable energy value chain."
   feature_item:
     # feature item loop

@@ -22,8 +22,8 @@ hero_slider:
       title : "Solaris : Fabrication Photovoltaïque Avancée"
       content : "Production de panneaux solaires haute performance, portée par une technologie de pointe et une 
       ingénierie de précision."
-      bg_image_webp : "images/slider/drone_pictures_23.JPG"
-      bg_image : "images/slider/drone_pictures_23.JPG"
+      bg_image_webp : "images/slider/drone_pictures_23.webp"
+      bg_image : "images/slider/drone_pictures_23.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : true
@@ -64,7 +64,7 @@ hero_slider:
       title : "GPM Mobility : Propulser l'Avenir Électrique"
       content : "Construction de l'infrastructure essentielle pour la recharge des véhicules électriques et un 
       écosystème de transport durable."
-      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.jpg"
+      bg_image_webp : "images/slider/electric-cars-parking-lot-charging.webp"
       bg_image : "images/slider/electric-cars-parking-lot-charging.jpg"
       animation : "fadeInDown" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -118,8 +118,8 @@ about:
 
   bg_image : "images/backgrounds/about-us-bg.png"
   bg_image_webp : "images/backgrounds/about-us-bg.webp"
-  image_webp : "images/about/us-ma-flags-netzerocircle-org.png"
-  image : "images/about/us-ma-flags-netzerocircle-org.png"
+  image_webp : "images/about/us-ma-flags-netzerocircle-org.webp"
+  image : "images/about/us-ma-flags-netzerocircle-org.jpeg"
   button:
     enable : true;
     label : "Contactez-nous"
@@ -154,8 +154,8 @@ feature:
   enable : true
   subtitle : "Pourquoi nous choisir"
   title : "Pourquoi choisir GPM Holding"
-  image_webp : "images/feature/bg_about_01.jpg"
-  image : "images/feature/bg_about_01.jpg"
+  image_webp : "images/feature/value-chain-silicon_fr.webp"
+  image : "images/feature/value-chain-silicon_fr.jpeg"
   content : "GPM Holding offre une plateforme unique et verticalement intégrée qui combine capacité industrielle, expertise locale et synergies stratégiques sur l'ensemble de la chaîne de valeur des énergies renouvelables."
   feature_item:
     # feature item loop

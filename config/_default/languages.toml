@@ -9,7 +9,7 @@ weight = 1
 home = "Home"
 # footer content
 footer_content = "Morocco-based clean-energy and industrial platform focused on building, owning, and operating real assets across the renewable-energy value chain.<br><br> The group operates across five complementary verticals: utility-scale solar power generation, solar panel manufacturing, advanced materials (polysilicon), solar services and maintenance, and clean-energy mobility solutions. "
-copyright = "Copyright © GPM Holding, 2025 All rights reserved"
+copyright = "Copyright © GPM Holding, 2026 All rights reserved"
 
 
 ################################### French language #####################################
@@ -24,4 +24,4 @@ home = "Accueil"
 # footer content
 footer_content = "Plateforme industrielle et d'énergie propre basée au Maroc, axée sur la construction, la détention et l'exploitation d'actifs réels sur toute la chaîne de valeur des énergies renouvelables.<br><br> Le groupe opère à travers cinq verticaux complémentaires : production d'énergie solaire à grande échelle, fabrication de panneaux solaires, matériaux avancés (polysilicium), services et maintenance solaires, et solutions de mobilité à énergie propre."
 # copyright
-copyright = "Copyright © GPM Holding, 2025 Tous droits réservés"
+copyright = "Copyright © GPM Holding, 2026 Tous droits réservés"

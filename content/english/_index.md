@@ -264,7 +264,6 @@ blog:
 contact:
   enable : true
   image : "images/globe.jpg"
-  response_page : "/#contacts?q=thanks"
   
   form_fields:
     # form item

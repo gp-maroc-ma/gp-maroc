@@ -269,7 +269,6 @@
         <h3 class="section-title text-center text-md-left">{{ i18n "contact_form" }}</h3>
         <script>let submitted=false;</script>
         <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {
-          window.location='{{ $.Params.contact.response_page | absURL }}';
           document.getElementById('form-messages').style.display = 'inline-block';
           document.getElementById('contact-form').reset();
           setTimeout(function() {

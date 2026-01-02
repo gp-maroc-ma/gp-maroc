@@ -11,6 +11,9 @@
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb bg-transparent p-0">
             <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="{{ site.BaseURL | relLangURL }}">{{ site.Params.home }}</a></li>
+            {{ if .Section }}
+            <li class="breadcrumb-item font-weight-semebold"><a class="text-white" href="{{ .Section | relLangURL }}">{{ .Section | title }}</a></li>
+            {{ end }}
             <li class="breadcrumb-item font-weight-semebold active text-primary" aria-current="page">{{ .Title }}</li>
           </ol>
         </nav>

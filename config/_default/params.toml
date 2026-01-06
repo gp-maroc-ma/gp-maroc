@@ -4,7 +4,7 @@ logo_width = "150px"
 logo_footer = "images/logo.png"
 favicon = "images/favicon.png"
 # top header
-top_header = true
+top_header = false
 # Meta data
 description = "This is meta description"
 author = "Themefisher"

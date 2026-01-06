@@ -132,10 +132,10 @@ funfacts :
       count : "10"
       icon : "far fa-calendar-alt" # font-awesome 5 : https://fontawesome.com/icons/
       
-    # fanfacts item loop
-    - name : "Financement Engagé (M)"
-      count : "650"
-      icon : "fas fa-dollar-sign" # font-awesome 5 : https://fontawesome.com/icons/
+#    # fanfacts item loop
+#    - name : "Financement Engagé (M)"
+#      count : "650"
+#      icon : "fas fa-dollar-sign" # font-awesome 5 : https://fontawesome.com/icons/
       
     # # fanfacts item loop
     # - name : "Happy Coustomers"

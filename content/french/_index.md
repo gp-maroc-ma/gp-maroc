@@ -145,7 +145,7 @@ funfacts :
 
 ################################# feature ############################################
 feature:
-  enable : true
+  enable : false
   subtitle : "Pourquoi nous choisir"
   title : "Pourquoi choisir GPM Holding"
   image_webp : "images/feature/value-chain-silicon_fr.webp"
@@ -213,7 +213,7 @@ testimonial:
 
 ################################# partners #########################################
 partners:
-  enable : true
+  enable : false
   subtitle : "PARTENAIRES"
   title : "Nos Partenaires Stratégiques"
   partners_item:
@@ -236,7 +236,7 @@ partners:
   
 ################################# blog ################################################
 cta:
-  enable : true
+  enable : false
   title : "GPM Holding offre la solution intelligente pour votre entreprise"
   bg_image_webp : "images/backgrounds/cta-lg.webp"
   bg_image : "images/backgrounds/cta-lg.jpg"

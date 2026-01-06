@@ -82,11 +82,6 @@ banner_feature:
       content : "An annual polysilicon production capacity of 30,000 tons."
       
     # banner feature item loop
-    - name : "High efficiency"
-      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Capture more sunlight and generate maximum power with every panel."
-      
-    # banner feature item loop
     - name : "Eco-Friendly"
       icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Power your life with clean energy that protects our planet."

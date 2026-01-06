@@ -84,11 +84,6 @@ banner_feature:
       content : "Une capacité de production de polysilicium annuelle de 30 000 tonnes."
       
     # banner feature item loop
-    - name : "Haute efficacité"
-      icon : "far fa-chart-bar" # font-awesome 5 : https://fontawesome.com/icons/
-      content : "Capturez plus de lumière solaire et générez le maximum de puissance avec chaque panneau."
-      
-    # banner feature item loop
     - name : "Écologique"
       icon : "far fa-lightbulb" # font-awesome 5 : https://fontawesome.com/icons/
       content : "Alimentez votre vie avec une énergie propre qui protège notre planète.<br><br>"

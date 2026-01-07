@@ -17,10 +17,12 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-lg-7" data-duration-in=".3" data-animation-in="{{ .animation }}" data-delay-in=".1">
+          <div class="col-lg-10" data-duration-in=".3" data-animation-in="{{ .animation }}" data-delay-in=".1">
             <h4 class="mb-0 letter-spacing text-white">{{ .subtitle | markdownify }}</h4>
-            <h1 class="mb-4 text-white">{{ .title | markdownify }}</h1>
-            <p class="mb-5 slider-text text-white">{{ .content | markdownify }}</p>
+            {{ range .title }}
+            <h1 class="text-white">{{ .row | markdownify }}</h1>
+            {{ end }}
+            <p class="col-lg-8 col-10 slider-text text-white mb-5 mt-4 p-0">{{ .content | markdownify }}</p>
             {{ if .button.enable }}
             <a href="{{ .button.link }}" class="btn btn-primary-outline" data-duration-in=".3"
               data-animation-in="{{ .button.animation }}" data-delay-in=".4">{{ .button.label }}</a>
@@ -65,7 +67,7 @@
 
 {{ if .Params.about.enable }}
 {{ "<!-- about us -->" | safeHTML }}
-<section class="section pt-0" id="about">
+<section class="section" id="about">
   {{ partial "about-section.html" . }}
 </section>
 {{ "<!-- /about us -->" | safeHTML }}

@@ -24,13 +24,18 @@
 }
 
 /* Smooth scroll with offset for anchor links */
-html {
-  scroll-behavior: smooth;
-}
+//html {
+//  scroll-behavior: smooth;
+//}
 
 /* Modern approach using scroll-margin-top */
 section[id] {
   scroll-margin-top: 75px;
+
+  /* Mobile styling */
+  @media(max-width: 767px){
+    scroll-margin-top: 50px !important;
+  }
 }
 
 .partner-logo-container {
@@ -111,7 +116,7 @@ section[id] {
   font-weight: 500;
 
   /* Mobile margin-top */
-  @media (max-width: 767px) {
+  @media(max-width: 767px){
     margin-top: 20px;
     margin-left: 0;
   }
@@ -138,4 +143,11 @@ section[id] {
 /* Form animation for smooth appearance */
 #form-messages {
   transition: all 0.3s ease-in-out;
+}
+
+.container-project {
+
+  @media(min-width: 1200px){
+    max-width: 1000px;
+  }
 }

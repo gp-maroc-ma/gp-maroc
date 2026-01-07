@@ -1,5 +1,5 @@
 ---
-title: "Opérations et Maintenance"
+title: "GPM Services"
 date: 2015-02-07T10:47:55+06:00
 # meta description
 description: "L'O&M comprend le nettoyage des panneaux, les inspections électriques, la maintenance des onduleurs, la surveillance des performances et la réparation des pannes."

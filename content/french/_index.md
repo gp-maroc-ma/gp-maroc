@@ -5,9 +5,11 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "GPM Parks"
-      title : "GPM Parks : Hubs Industriels Durables"
-      content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés aux 
-      énergies renouvelables et à la croissance stratégique."
+      title :
+        - row : "Hubs Industriels"
+        - row : "Durables"
+      content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés à la 
+      croissance stratégique."
       bg_image : "images/slider/image5.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
@@ -18,7 +20,9 @@ hero_slider:
         
     # slider item
     - subtitle : "Solaris"
-      title : "Solaris : Fabrication Photovoltaïque Avancée"
+      title :
+        - row : "Fabrication Photovoltaïque"
+        - row : "Avancée"
       content : "Production de panneaux solaires haute performance, portée par une technologie de pointe et une 
       ingénierie de précision."
       bg_image_webp : "images/slider/drone_pictures_23.webp"
@@ -32,7 +36,9 @@ hero_slider:
         
     # slider item
     - subtitle : "GPM Services"
-      title : "GPM Services : Excellence Opérationnelle"
+      title :
+        - row : "Excellence"
+        - row : "Opérationnelle"
       content : "Solutions complètes de maintenance et de nettoyage spécialisé pour garantir l'efficacité maximale des 
       installations solaires."
       bg_image_webp : "images/slider/bg_development_-1.jpg"
@@ -45,8 +51,10 @@ hero_slider:
         animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
         
     # slider item
-    - subtitle : "GPM Polysilicon"
-      title : "GPM Polysilicon : Le Socle de la Valeur Solaire"
+    - subtitle : "Sondiale"
+      title :
+        - row : "Le Socle de la Semi-conducteurs"
+        - row : "et de Valeur Solaire"
       content : "Sécuriser la production de polysilicium de haute pureté pour alimenter la transition mondiale vers 
       l'énergie renouvelable."
       bg_image_webp : "images/slider/polysilicon_solar_cell.jpg"
@@ -60,7 +68,9 @@ hero_slider:
         
     # slider item
     - subtitle : "GPM Mobility"
-      title : "GPM Mobility : Propulser l'Avenir Électrique"
+      title :
+        - row : "Propulser l'Avenir"
+        - row : "Électrique"
       content : "Construction de l'infrastructure essentielle pour la recharge des véhicules électriques et un 
       écosystème de transport durable."
       bg_image_webp : "images/slider/electric-cars-parking-lot-charging.webp"

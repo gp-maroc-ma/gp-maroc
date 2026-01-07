@@ -73,7 +73,7 @@ hero_slider:
 
 ################################## banner feature ############################
 banner_feature:
-  enable : true
+  enable : false
   # Max use 4 item
   feature_item:
     # banner feature item loop

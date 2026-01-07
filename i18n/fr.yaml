@@ -72,3 +72,15 @@
 
 - id: get_a_quote
   translation: Obtenir un devis
+
+- id: section_blog
+  translation: Blog
+
+- id: section_project
+  translation: Nos Entités
+
+- id: section_service
+  translation: Services
+
+- id: section_team
+  translation: Équipe

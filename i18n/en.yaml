@@ -72,3 +72,15 @@
 
 - id: get_a_quote
   translation: Get a Quote
+
+- id: section_blog
+  translation: Blog
+
+- id: section_project
+  translation: Our Entities
+
+- id: section_service
+  translation: Services
+
+- id: section_team
+  translation: Team

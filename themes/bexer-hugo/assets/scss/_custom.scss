@@ -24,13 +24,18 @@
 }
 
 /* Smooth scroll with offset for anchor links */
-html {
-  scroll-behavior: smooth;
-}
+//html {
+//  scroll-behavior: smooth;
+//}
 
 /* Modern approach using scroll-margin-top */
 section[id] {
   scroll-margin-top: 75px;
+
+  /* Mobile styling */
+  @media (max-width: 767px) {
+    scroll-margin-top: 50px !important;
+  }
 }
 
 .partner-logo-container {

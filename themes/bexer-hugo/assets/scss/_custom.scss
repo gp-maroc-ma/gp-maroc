@@ -144,3 +144,10 @@ section[id] {
 #form-messages {
   transition: all 0.3s ease-in-out;
 }
+
+.container-project {
+
+  @media (min-width: 1200px) {
+    max-width: 1000px;
+  }
+}

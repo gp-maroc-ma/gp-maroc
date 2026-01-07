@@ -1,5 +1,5 @@
 ---
-title: "Operations and Maintenance"
+title: "GPM Services"
 date: 2015-02-07T10:47:55+06:00
 # meta description
 description: "O&M includes panel cleaning, electrical inspections, inverter maintenance, performance monitoring, and fault repair."

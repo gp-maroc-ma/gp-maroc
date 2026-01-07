@@ -37,6 +37,9 @@ link = "plugins/slick/slick.css"
 link = "plugins/animate/animate.css"
 [[params.plugins.css]]
 link = "plugins/venobox/venobox.css"
+[[params.plugins.css]]
+link = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
+attributes = "crossorigin='anonymous'"
 
 # JS Plugins
 [[params.plugins.js]]

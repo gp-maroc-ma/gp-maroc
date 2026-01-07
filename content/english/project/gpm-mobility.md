@@ -7,7 +7,7 @@ description: "applies enewable energy to electric transportation solutions"
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
 # project image
-image_webp: "images/project/gpm-mobility.webp"
+image_webp: "images/project/electrict_truck_charging.webp"
 image: "images/project/gpm-mobility.jpeg"
 image_link: "https://gp-mobilite.ma/"
 # client

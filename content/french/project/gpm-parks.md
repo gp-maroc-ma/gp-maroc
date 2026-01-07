@@ -26,9 +26,7 @@ GPM Parks se concentre sur des projets techniquement robustes, écologiquement r
 GPM Holding, à travers sa filiale GreenPower Morocco 1 S.A., a développé avec succès un parc photovoltaïque de 30 MWac. L'installation est située à Douar Daidaat, dans la commune de Hjar Ennhal de la préfecture de Tanger-Asilah.
 Développé dans le cadre de la loi 13-09 relative aux énergies renouvelables, le projet représente une contribution significative à l'infrastructure énergétique verte du Maroc.
 
-{{< image src="/images/project/GPM-2-map.jpeg" srcAlt="GPM2 map" >}}
-
-{{< image src="/images/project/GPM-4-map.jpeg" srcAlt="GPM4 map" >}}
+{{< image src="/images/project/GPM-2-4-map.jpeg" srcAlt="GPM2 map" >}}
 
 <div style="margin-top: 40px;">
   <a href="https://gpm-parks.gp-maroc.ma/fr/" class="btn btn-primary hover-ripple">Découvrir GPM Parks</a>

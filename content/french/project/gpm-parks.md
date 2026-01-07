@@ -21,16 +21,15 @@ status : "En cours"
 GPM Parks développe, construit, détient et exploite des centrales solaires photovoltaïques à grande échelle. Ces centrales convertissent la lumière du soleil en électricité qui est livrée soit au réseau national, soit directement aux consommateurs industriels.
 Les centrales solaires à grande échelle se composent de milliers de panneaux photovoltaïques installés sur de vastes étendues de terrain, soutenus par une infrastructure électrique telle que des onduleurs, des transformateurs et des sous-stations. Ces systèmes sont conçus pour fonctionner pendant 25 à 30 ans avec une dégradation minimale.
 
-
 GPM Parks se concentre sur des projets techniquement robustes, écologiquement responsables et économiquement viables sur le long terme.
-
 
 GPM Holding, à travers sa filiale GreenPower Morocco 1 S.A., a développé avec succès un parc photovoltaïque de 30 MWac. L'installation est située à Douar Daidaat, dans la commune de Hjar Ennhal de la préfecture de Tanger-Asilah.
 Développé dans le cadre de la loi 13-09 relative aux énergies renouvelables, le projet représente une contribution significative à l'infrastructure énergétique verte du Maroc.
 
+{{< image src="/images/project/GPM-2-map.jpeg" srcAlt="GPM2 map" >}}
+
+{{< image src="/images/project/GPM-4-map.jpeg" srcAlt="GPM4 map" >}}
+
 <div style="margin-top: 40px;">
   <a href="https://gpm-parks.gp-maroc.ma/fr/" class="btn btn-primary hover-ripple">Découvrir GPM Parks</a>
 </div>
-
-
-

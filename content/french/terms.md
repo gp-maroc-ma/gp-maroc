@@ -5,6 +5,8 @@ draft: false
 description: "Le groupe GPM Holding conserve la propriété stricte de tout le contenu original publié sur ces sites."
 ---
 
+### **1. Conditions générales**
+
 En accédant au site web **gp-maroc.ma** ou à l'une de ses pages de destination subsidiaires, vous acceptez d'être lié par les présentes conditions d'utilisation ainsi que par toutes les lois et réglementations applicables. Si vous n'acceptez pas l'une de ces conditions, il vous est interdit d'utiliser ou d'accéder à ces sites.
 
 ### **2. Droits de propriété intellectuelle**

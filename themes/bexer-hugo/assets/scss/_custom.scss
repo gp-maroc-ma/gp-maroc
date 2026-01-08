@@ -14,9 +14,20 @@
   }
 }
 
+.mobile-height {
+
+  @media(max-width: 767px){
+    min-height: 114px;
+  }
+}
+
 .slider-text {
   color: $text-color-dark;
   min-height: 96px;
+
+  @media(max-width: 767px){
+    min-height: 120px;
+  }
 }
 
 .about-img-rounded-shadow {

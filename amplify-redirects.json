@@ -1,0 +1,26 @@
+[
+    {
+        "source": "/about-us/",
+        "target": "/#about",
+        "status": "301",
+        "condition": null
+    },
+    {
+        "source": "/factories/",
+        "target": "/project/solaristangier/",
+        "status": "301",
+        "condition": null
+    },
+    {
+        "source": "/solar-power-plants/",
+        "target": "/project/gpm-parks/",
+        "status": "301",
+        "condition": null
+    },
+    {
+        "source": "/contacts/",
+        "target": "/#contacts",
+        "status": "301",
+        "condition": null
+    }
+]

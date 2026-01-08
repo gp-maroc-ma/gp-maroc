@@ -9,11 +9,10 @@ frontend:
     preBuild:
       commands:
         - curl -L -o hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
-        - tar -xf hugo.tar.gz hugo
-        - mv hugo /usr/local/bin/hugo
+        - tar -xf hugo.tar.gz
     build:
       commands:
-        - hugo --gc --minify --baseURL https://gp-maroc.ma/
+        - ./hugo --gc --minify --baseURL https://gp-maroc.ma/
   artifacts:
     baseDirectory: public
     files:

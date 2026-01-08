@@ -1,0 +1,24 @@
+version: 1
+env:
+  variables:
+    HUGO_VERSION: 0.153.4
+    HUGO_ENVIRONMENT: production
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - npm ci
+        - npm run project-setup
+        - curl -L -o hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+        - tar -xf hugo.tar.gz hugo
+        - mv hugo /usr/local/bin/hugo
+    build:
+      commands:
+        - hugo --gc --minify --baseURL https://gp-maroc.ma/
+  artifacts:
+    baseDirectory: public
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - node_modules/**/*

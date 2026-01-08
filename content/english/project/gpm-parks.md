@@ -15,7 +15,7 @@ client: "Morocco"
 # project category
 category: "Utility-scale solar power generation"
 # project status
-status : "In Process"
+status : "In Operation"
 ---
 #### What GPM Parks Does
 GPM Parks develops, builds, owns, and operates large-scale solar photovoltaic power plants. These plants convert sunlight into electricity that is delivered either to the national grid or directly to industrial consumers.

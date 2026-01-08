@@ -15,7 +15,7 @@ client: "Maroc"
 # project category
 category: "services solaires et maintenance"
 # project status
-status : "En cours"
+status : "En opération"
 ---
 
 Les opérations et la maintenance (O&M) comprennent le nettoyage des panneaux, les inspections électriques, la maintenance des onduleurs, la surveillance des performances et la réparation des pannes.

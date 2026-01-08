@@ -24,8 +24,8 @@ Le polysilicium est un matériau d'une pureté ultra-élevée utilisé pour fabr
 #### Pourquoi le polysilicium est stratégiquement important
 Le polysilicium est le fondement de la chaîne de valeur solaire et est essentiel pour l'indépendance énergétique et la résilience de la chaîne d'approvisionnement.
 
-#### Aperçu du projet Sundial
-Sundial représente l'initiative de GPM Holding pour développer une capacité de production de polysilicium au Maroc, actuellement en phases de développement structuré et de faisabilité.
+#### Aperçu du projet Sondiale
+Sondiale représente l'initiative de GPM Holding pour développer une capacité de production de polysilicium au Maroc, actuellement en phases de développement structuré et de faisabilité.
 
 <div style="margin-top: 40px;">
   <a href="https://sondiale.ma/fr/" class="btn btn-primary hover-ripple">Découvrir Sondiale</a>

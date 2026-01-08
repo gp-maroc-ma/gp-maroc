@@ -1,26 +1,62 @@
 [
-    {
-        "source": "/about-us/",
-        "target": "/#about",
-        "status": "301",
-        "condition": null
-    },
-    {
-        "source": "/factories/",
-        "target": "/project/solaristangier/",
-        "status": "301",
-        "condition": null
-    },
-    {
-        "source": "/solar-power-plants/",
-        "target": "/project/gpm-parks/",
-        "status": "301",
-        "condition": null
-    },
-    {
-        "source": "/contacts/",
-        "target": "/#contacts",
-        "status": "301",
-        "condition": null
-    }
+  {
+    "source": "https://www.gp-maroc.ma",
+    "status": "301",
+    "target": "https://gp-maroc.ma"
+  },
+  {
+    "source": "/portfolio/",
+    "status": "301",
+    "target": "/"
+  },
+  {
+    "source": "/department/",
+    "status": "301",
+    "target": "/"
+  },
+  {
+    "source": "/department/departments/management/",
+    "status": "301",
+    "target": "/"
+  },
+  {
+    "source": "/portfolio/02/",
+    "status": "301",
+    "target": "/"
+  },
+  {
+    "source": "/media_category/construction-gallery/",
+    "status": "301",
+    "target": "/"
+  },
+  {
+    "source": "/solar-plants/",
+    "status": "301",
+    "target": "/project/solaristangier/"
+  },
+  {
+    "source": "/about-us/",
+    "status": "301",
+    "target": "/#about"
+  },
+  {
+    "source": "/factories/",
+    "status": "301",
+    "target": "/project/solaristangier/"
+  },
+  {
+    "source": "/solar-power-plants/",
+    "status": "301",
+    "target": "/project/gpm-parks/"
+  },
+  {
+    "source": "/contacts/",
+    "status": "301",
+    "target": "/#contacts"
+  },
+  {
+    "source": "/<*>",
+    "status": "404",
+    "target": "/404/"
+  }
 ]

@@ -12,7 +12,7 @@ frontend:
         - tar -xf hugo.tar.gz
     build:
       commands:
-        - ./hugo --gc --minify --baseURL https://gp-maroc.ma/
+        - ./hugo --gc --minify --baseURL https://production.d25xitkd6565un.amplifyapp.com/
   artifacts:
     baseDirectory: public
     files:

@@ -15,10 +15,10 @@ client: "Morocco"
 # project category
 category: "Clean-energy mobility"
 # project status
-status : "In Process"
+status : "In Operation"
 ---
 
-rGPM Mobility applies enewable energy to electric transportation solutions.
+GPM Mobility supplies renewable energy to electric transportation solutions.
 
 #### The Green Corridor Concept
 The Green Corridor envisions solar-powered battery swapping infrastructure for electric freight vehicles operating along major transport routes.

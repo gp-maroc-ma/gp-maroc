@@ -8,8 +8,8 @@ hero_slider:
       title :
         - row : "Hubs Industriels"
         - row : "Durables"
-      content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés à la 
-      croissance stratégique."
+      content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés aux 
+      énergies renouvelables et à la croissance stratégique."
       bg_image : "images/slider/image5.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:

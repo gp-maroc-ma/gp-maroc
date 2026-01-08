@@ -38,7 +38,7 @@ social:
 ---
 
 #### PV Solar Energy Engineer
-Rajae currently holds the position of Photovoltaic Solar Energy Engineer within the technical department of GPM Holding. She is in charge of reviewing electrical designs and production simulations for GPM projects, as well as preparing all the elements required to obtain the various administrative authorizations necessary for starting projects. She notably ensured the monitoring of the realization of the GreenPower Morocco I solar park, located in Tangier, with a capacity of 30 MWac.
+Rajae currently holds the position of Photovoltaic Solar Energy Engineer within the technical department of GPM Holding. She is in charge of reviewing electrical designs and production simulations for GPM projects, as well as preparing all the elements required to obtain the various administrative authorizations necessary for starting projects. She notably ensured the monitoring of the realization of the GreenPower Morocco 1 solar park, located in Tangier, with a capacity of 30 MWac.
 
 She graduated from the National School of Applied Sciences of Al Hoceima (ENSA-H), as a State Engineer in energy engineering and renewable energies.
 

@@ -15,7 +15,7 @@ client: "Maroc"
 # project category
 category: "Mobilité à énergie propre"
 # project status
-status : "En cours"
+status : "En opération"
 ---
 
 GPM Mobility applique l'énergie renouvelable aux solutions de transport électrique.

@@ -38,7 +38,7 @@ social:
 ---
 
 #### Ingénieur en Energie Solaire PV
-Rajae occupe actuellement le poste d’Ingénieur en énergie solaire photovoltaïque au sein du département technique de GPM Holding. Elle est en charge des revues des conceptions électriques et des simulations de production des projets de GPM ainsi que de la préparation de l’ensemble des éléments requis pour l’obtention des différentes autorisations administratives nécessaires au démarrage des projets. Elle a notamment assuré le suivi de la réalisation du parc solaire GreenPower Morocco I, situé à Tanger, d’une capacité de 30 MWac. 
+Rajae occupe actuellement le poste d’Ingénieur en énergie solaire photovoltaïque au sein du département technique de GPM Holding. Elle est en charge des revues des conceptions électriques et des simulations de production des projets de GPM ainsi que de la préparation de l’ensemble des éléments requis pour l’obtention des différentes autorisations administratives nécessaires au démarrage des projets. Elle a notamment assuré le suivi de la réalisation du parc solaire GreenPower Morocco 1, situé à Tanger, d’une capacité de 30 MWac. 
 
 Elle est diplômée de l’École Nationale des Sciences Appliquées d’Al Hoceima (ENSA-H), en tant qu’Ingénieure d’État en génie énergétique et énergies renouvelables
 

@@ -15,7 +15,7 @@ client: "Maroc"
 # project category
 category: "Production d'énergie solaire à grande échelle"
 # project status
-status : "En cours"
+status : "En opération"
 ---
 #### Ce que fait GPM Parks
 GPM Parks développe, construit, détient et exploite des centrales solaires photovoltaïques à grande échelle. Ces centrales convertissent la lumière du soleil en électricité qui est livrée soit au réseau national, soit directement aux consommateurs industriels.

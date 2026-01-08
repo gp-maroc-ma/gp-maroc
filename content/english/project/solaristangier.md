@@ -15,7 +15,7 @@ client: "Morocco"
 # project category
 category: "Solar panel manufacturing"
 # project status
-status : "In Process"
+status : "In Operation"
 ---
 
 Solaris is GPM Holding’s solar panel manufacturing platform. The facility is designed to assemble photovoltaic modules at industrial scale, supplying both domestic and export markets.

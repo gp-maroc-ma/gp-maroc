@@ -22,10 +22,10 @@ status : "In development"
 Polysilicon is an ultra-high-purity material used to manufacture solar cells and semiconductor devices.
 
 #### Why Polysilicon Is Strategically Important
-Polysilicon is the foundation of the solar value chain and critical for energy independence and supply chain resilience.
+Polysilicon is the foundation of the solar value chain critical for energy independence and supply chain resilience.
 
-#### Sundial Project Overview
-Sundial represents GPM Holding’s initiative to develop polysilicon production capacity in Morocco, currently in structured development and feasibility phases.
+#### Sondiale Project Overview
+Sondiale represents GPM Holding’s initiative to develop polysilicon production capacity in Morocco, currently in structured development and feasibility phases.
 
 <div style="margin-top: 40px;">
   <a href="https://sondiale.ma/" class="btn btn-primary hover-ripple">Discover Sondiale</a>

@@ -15,7 +15,7 @@ client: "Maroc"
 # project category
 category: "Fabrication de panneaux solaires"
 # project status
-status : "En cours"
+status : "En opération"
 ---
 
 Solaris est la plateforme de fabrication de panneaux solaires de GPM Holding. L'installation est conçue pour assembler des modules photovoltaïques à l'échelle industrielle, approvisionnant à la fois les marchés nationaux et d'exportation.

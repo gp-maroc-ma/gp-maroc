@@ -18,11 +18,11 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-10" data-duration-in=".3" data-animation-in="{{ .animation }}" data-delay-in=".1">
-            <h4 class="mb-0 letter-spacing text-white">{{ .subtitle | markdownify }}</h4>
+            <h4 class="mb-4 mb-lg-0 letter-spacing text-white">{{ .subtitle | markdownify }}</h4>
             {{ range .title }}
             <h1 class="text-white">{{ .row | markdownify }}</h1>
             {{ end }}
-            <p class="col-lg-8 col-10 slider-text text-white mb-5 mt-4 p-0">{{ .content | markdownify }}</p>
+            <p class="col-lg-8 col-10 slider-text text-white mb-4 mt-4 p-0">{{ .content | markdownify }}</p>
             {{ if .button.enable }}
             <a href="{{ .button.link }}" class="btn btn-primary-outline" data-duration-in=".3"
               data-animation-in="{{ .button.animation }}" data-delay-in=".4">{{ .button.label }}</a>

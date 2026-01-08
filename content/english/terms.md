@@ -5,6 +5,8 @@ draft: false
 description: "The GPM Holding group maintains strict ownership over all original content published on these sites."
 ---
 
+### **1. General Conditions**
+
 By accessing the website **gp-maroc.ma** or any of its subsidiary landing pages, you agree to be bound by these Terms of Use and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing these sites.
 
 ### **2. Intellectual Property Rights**

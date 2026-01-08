@@ -15,7 +15,7 @@ client: "Morocco"
 # project category
 category: "solar services and maintenance"
 # project status
-status : "In Process"
+status : "In Operation"
 ---
 
 Operations and Maintenance (O&M) includes panel cleaning, electrical inspections, inverter maintenance, performance monitoring, and fault repair.

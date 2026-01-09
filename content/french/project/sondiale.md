@@ -2,7 +2,7 @@
 title: "Sondiale"
 date: 2025-11-25T10:47:55+06:00
 # meta description
-description: "Développement de polysilicium"
+description: "Projet de développement du polysilicium au Maroc par GPM Holding."
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"

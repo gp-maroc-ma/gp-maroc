@@ -1,6 +1,6 @@
 ---
 title: "Our Privacy Policy"
-draft: false
+draft: true
 # description
 description: "This is meta description"
 ---

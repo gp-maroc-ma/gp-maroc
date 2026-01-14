@@ -9,7 +9,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # project image
 # image_webp: "images/project/project-6.webp"
 image: "images/project/gpm-parks-image-7.jpg"
-image_link: "https://gpm-parks.gp-maroc.ma/fr/"
+image_link: "https://gpm-parks.ma/fr/"
 # client
 client: "Maroc"
 # project category
@@ -29,5 +29,5 @@ Développé dans le cadre de la loi 13-09 relative aux énergies renouvelables, 
 {{< image src="/images/project/GPM-2-4-map.jpeg" srcAlt="GPM2 map" >}}
 
 <div style="margin-top: 40px;">
-  <a href="https://gpm-parks.gp-maroc.ma/fr/" class="btn btn-primary hover-ripple">Découvrir GPM Parks</a>
+  <a href="https://gpm-parks.ma/fr/" class="btn btn-primary hover-ripple">Découvrir GPM Parks</a>
 </div>

@@ -4,6 +4,7 @@
 {{ if .enable }}
 {{ "<!-- slider -->" | safeHTML }}
 <section>
+  <h1 class="d-none">{{ site.Title }}</h1>
   <div class="hero-slider">
     {{ range .slider_item }}
     {{ "<!-- slider item -->" | safeHTML }}
@@ -21,7 +22,7 @@
             <h4 class="mb-4 mb-lg-0 letter-spacing text-white">{{ .subtitle | markdownify }}</h4>
             <div class="mobile-height">
               {{ range .title }}
-              <h1 class="text-white">{{ .row | markdownify }}</h1>
+              <p class="slider-h1 text-white">{{ .row | markdownify }}</p>
               {{ end }}
             </div>
             <p class="col-lg-8 col-10 slider-text text-white mb-4 mt-4 p-0">{{ .content | markdownify }}</p>

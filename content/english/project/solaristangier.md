@@ -2,7 +2,7 @@
 title: "Solaris"
 date: 2018-02-07T10:47:55+06:00
 # meta description
-description: "Solaris - harness the sun"
+description: "Solaris is GPM Holding’s solar panel manufacturing platform"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"

@@ -8,6 +8,19 @@ weight = 1
 [en.params]
 baseURL = "/"
 home = "Home"
+keywords = ["Green Power Morocco", "Renewable Energy", "Solar Power", "Clean Energy", "Solar Panel Manufacturing", "Polysilicon", "Solar Maintenance", "Sustainable Industrial Hubs", "Photovoltaic", "Morocco"]
+
+# cookie consent content
+consent_manage = 'Manage preferences'
+consent_deny = 'Deny'
+consent_allow = 'Allow'
+consent_outer_message_1 = 'We would like to use '
+consent_inner_message = 'third party code'
+consent_outer_message_2 = ' to improve the functionality of this website.'
+consent_description = 'This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on.'
+consent_allow_all = 'Allow all'
+consent_save_preferences = 'Save preferences'
+
 # footer content
 footer_content = "Morocco-based clean-energy and industrial platform specializing in the construction, ownership and operation of real assets across the entire renewable energy value chain.<br><br> The group operates across five complementary verticals: utility-scale solar power generation, solar panel manufacturing, advanced materials (polysilicon), solar services and maintenance, and clean-energy mobility solutions. "
 copyright = "Copyright © GPM Holding, 2026 All rights reserved"
@@ -23,6 +36,19 @@ weight = 2
 [fr.params]
 baseURL = "/fr/"
 home = "Accueil"
+keywords = ["Green Power Morocco", "Énergie Renouvelable", "Énergie Solaire", "Énergie Propre", "Fabrication de Panneaux Solaires", "Polysilicium", "Maintenance Solaire", "Hubs Industriels Durables", "Photovoltaïque", "Maroc"]
+
+# cookie consent content
+consent_manage = 'Gérer les préférences'
+consent_deny = 'Refuser'
+consent_allow = 'Autoriser'
+consent_outer_message_1 = 'Nous souhaitons utiliser '
+consent_inner_message = 'du code tiers'
+consent_outer_message_2 = ' pour améliorer le fonctionnement de ce site.'
+consent_description = "Ce code nous donne un aperçu du nombre de personnes qui visitent notre site, d'où elles viennent et sur quoi elles cliquent."
+consent_allow_all = 'Tout autoriser'
+consent_save_preferences = 'Enregistrer'
+
 # footer content
 footer_content = "Plateforme industrielle et d'énergie propre basée au Maroc, spécialisation dans la construction, la propriété et l'exploitation d'actifs réels tout au long de la chaîne de valeur des énergies renouvelables.<br><br> Le groupe opère à travers cinq verticaux complémentaires : production d'énergie solaire à grande échelle, fabrication de panneaux solaires, matériaux avancés (polysilicium), services et maintenance solaires, et solutions de mobilité à énergie propre."
 # copyright

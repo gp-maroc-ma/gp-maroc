@@ -14,8 +14,12 @@ mobile = "+212 539 945 952"
 email = "info@gp-maroc.ma"
 # contact form action
 contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLSfO_dAi2qCGMY1tNlJrD1f6ZW3URcAr4K3f4mbaYV6GISaFhw/formResponse" # contact form works with https://formspree.io
+
 # Google Analitycs
 google_analitycs_id = "" # your id
+gtm = "GTM-M5Q27SSB"
+cookie_consent = true
+
 # page sidebar quick contact form
 quick_contact = true
 # search

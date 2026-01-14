@@ -13,6 +13,10 @@
 <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
 {{ end }}
 
+{{ if site.Params.keywords }}
+<meta itemprop="keywords" content="{{ range $index, $keyword := site.Params.keywords }}{{ $keyword }},{{ end }}" >
+{{ end }}
+
 <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
 {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 {{ hugo.Generator }}
@@ -30,5 +34,32 @@
 {{ end }}
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
-{{ template "_internal/google_analytics.html" . }}
+<!--{{ template "_internal/google_analytics.html" . }}-->
+
+<!-- Google Tag Manager -->
+<script>
+  if (localStorage.getItem("doNotTrack") === null) {
+    localStorage.setItem("doNotTrack", "true"); // default value before any choice has been made
+  }
+</script>
+{{ if $.Site.Params.gtm }}
+<script>
+  let doNotTrack = localStorage.getItem("doNotTrack");
+  if (doNotTrack === "false") {
+    let dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+    if (dnt == "1" || dnt == "yes") {
+      doNotTrack = true;
+    }
+    if (!doNotTrack || doNotTrack === "false") {
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','{{ $.Site.Params.gtm }}');
+    }
+  }
+</script>
+{{ end }}
+<!-- End Google Tag Manager -->
+
 {{ site.Params.custom_script | safeHTML }}

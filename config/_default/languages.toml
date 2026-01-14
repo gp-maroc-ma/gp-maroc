@@ -8,6 +8,7 @@ weight = 1
 [en.params]
 baseURL = "/"
 home = "Home"
+keywords = ["Green Power Morocco", "Renewable Energy", "Solar Power", "Clean Energy", "Solar Panel Manufacturing", "Polysilicon", "Solar Maintenance", "Sustainable Industrial Hubs", "Photovoltaic", "Morocco"]
 
 # cookie consent content
 consent_manage = 'Manage preferences'
@@ -35,6 +36,7 @@ weight = 2
 [fr.params]
 baseURL = "/fr/"
 home = "Accueil"
+keywords = ["Green Power Morocco", "Énergie Renouvelable", "Énergie Solaire", "Énergie Propre", "Fabrication de Panneaux Solaires", "Polysilicium", "Maintenance Solaire", "Hubs Industriels Durables", "Photovoltaïque", "Maroc"]
 
 # cookie consent content
 consent_manage = 'Gérer les préférences'

@@ -2,7 +2,7 @@
 title: "GPM Parks"
 date: 2015-02-07T10:47:55+06:00
 # meta description
-description: "Excellence industrielle"
+description: "développe, construit, détient et exploite des centrales solaires photovoltaïques à grande échelle"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"

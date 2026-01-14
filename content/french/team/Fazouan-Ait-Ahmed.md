@@ -2,7 +2,7 @@
 title: "Fazouan Ait Ahmed"
 date: 2018-09-27T10:47:55+06:00
 # meta description
-description: "Responsable Logistique – GPM Holding (depuis 2017)"
+description: "Responsable Logistique"
 # page title background image
 bg_image_webp: "images/backgrounds/page-title.webp"
 bg_image: "images/backgrounds/page-title.jpg"
@@ -10,7 +10,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # image_webp: "images/team/team-2.webp"
 image: "images/team/Fazouan-Ait-Ahmed.jpeg"
 # designation
-designation: "Responsable Logistique – GPM Holding (depuis 2017)"
+designation: "Responsable Logistique"
 social:
   # - icon : "fab fa-facebook" # font-awesome 5 : https://fontawesome.com/icons/
   #   link : "#"

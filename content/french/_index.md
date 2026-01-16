@@ -304,10 +304,10 @@ contact:
   
     # form item
     - id:  "phone"
-      label: "Phone"
+      label: "Telephone"
       type: input
       input_type: text
-      placeholder: "Phone"
+      placeholder: "Telephone"
       name: "entry.1704211452"
       maxlength: 15
       required: false

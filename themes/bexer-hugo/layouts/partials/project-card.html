@@ -2,7 +2,7 @@
   <div class="position-relative mb-4 overflow-hidden">
     <a href="{{ .Permalink }}">
       <img loading="lazy" src="{{ .Params.Image_webp | absURL }}"
-           onerror="this.onerror=null;this.src='{{.Params.Image | absURL }}'" alt="{{ .Title }}"
+           onerror="this.onerror=null;this.src='{{.Params.Image | absURL }}'" alt="Image of {{ .Title }}"
            class="img-fluid w-100">
     </a>
 <!--    <div class="hover-overlay">-->

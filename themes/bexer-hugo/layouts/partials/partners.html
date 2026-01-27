@@ -17,10 +17,10 @@
           <div class="partner-logo-container mb-4">
             {{ if .link }}
             <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">
-              <img loading="lazy" class="img-fluid partner-logo" src="{{ .partner_logo | absURL }}" alt="{{ .name }}">
+              <img loading="lazy" class="img-fluid partner-logo" src="{{ .partner_logo | absURL }}" alt="{{ .name }} logo">
             </a>
             {{ else }}
-            <img loading="lazy" class="img-fluid partner-logo" src="{{ .partner_logo | absURL }}" alt="{{ .name }}">
+            <img loading="lazy" class="img-fluid partner-logo" src="{{ .partner_logo | absURL }}" alt="{{ .name }} logo">
             {{ end }}
           </div>
           {{ if .link }}

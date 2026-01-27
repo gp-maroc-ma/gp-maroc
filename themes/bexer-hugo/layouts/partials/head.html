@@ -29,12 +29,18 @@
 <!-- theme color meta -->
 {{with site.Params.variables.primary_color}}<meta name="theme-color" content="{{.}}">{{end}}
 
-{{ with .Params.image }}
-<meta property="og:image" content="{{ . | absURL }}">
+{{- with or .Title site.Title site.Params.title | plainify }}
+<meta property="og:title" content="{{ . }}">
+<meta property="og:site_name" content="{{ . }}">
+{{- end }}
+
+{{ with site.Params }}
+<meta property="og:image" content="{{ .page_sharing_image | absURL }}">
+<meta property="og:description" content="{{ .description }}">
 {{ end }}
-{{ template "_internal/opengraph.html" . }}
-{{ template "_internal/twitter_cards.html" . }}
-<!--{{ template "_internal/google_analytics.html" . }}-->
+
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="website">
 
 <!-- Google Tag Manager -->
 <script>

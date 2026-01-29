@@ -21,10 +21,8 @@
         <div class="row">
           <div class="col-lg-10" data-duration-in=".3" data-animation-in="{{ .animation }}" data-delay-in=".1">
             <h4 class="mb-4 mb-lg-0 letter-spacing text-white">{{ .subtitle | markdownify }}</h4>
-            <div class="mobile-height">
-              {{ range .title }}
-              <p class="slider-h1 text-white">{{ .row | markdownify }}</p>
-              {{ end }}
+            <div class="slider-title-height">
+              <p class="slider-h1 text-white">{{ .title | markdownify }}</p>
             </div>
             <p class="col-lg-8 col-10 slider-text text-white mb-4 mt-4 p-0">{{ .content | markdownify }}</p>
             {{ if .button.enable }}

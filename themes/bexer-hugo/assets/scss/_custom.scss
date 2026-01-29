@@ -14,7 +14,8 @@
   }
 }
 
-.mobile-height {
+.slider-title-height {
+  min-height: 168px;
 
   @media(max-width: 767px){
     min-height: 114px;
@@ -161,5 +162,13 @@ section[id] {
 
   @media(min-width: 1200px){
     max-width: 1000px;
+  }
+}
+
+.team-button-sm {
+  display: block;
+
+  @media(min-width: 768px) {
+    min-height: 48px;
   }
 }

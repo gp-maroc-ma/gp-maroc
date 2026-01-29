@@ -14,7 +14,8 @@
   }
 }
 
-.mobile-height {
+.slider-title-height {
+  min-height: 168px;
 
   @media(max-width: 767px){
     min-height: 114px;

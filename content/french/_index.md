@@ -6,9 +6,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "GPM Parks"
-      title :
-        - row : "Hubs Industriels"
-        - row : "Durables"
+      title : "Hubs Industriels <br>Durables"
       content : "Développement d'écosystèmes industriels de classe mondiale - GPM 1, GPM 2 et GPM 4 - dédiés aux 
       énergies renouvelables et à la croissance stratégique."
       bg_image : "images/slider/image5.jpg"
@@ -21,9 +19,7 @@ hero_slider:
         
     # slider item
     - subtitle : "Solaris"
-      title :
-        - row : "Fabrication Photovoltaïque"
-        - row : "Avancée"
+      title : "Fabrication Photovoltaïque <br>Avancée"
       content : "Production de panneaux solaires haute performance, portée par une technologie de pointe et une 
       ingénierie de précision."
       bg_image_webp : "images/slider/drone_pictures_23.webp"
@@ -37,9 +33,7 @@ hero_slider:
         
     # slider item
     - subtitle : "GPM Services"
-      title :
-        - row : "Excellence"
-        - row : "Opérationnelle"
+      title : "Excellence <br>Opérationnelle"
       content : "Solutions complètes de maintenance et de nettoyage spécialisé pour garantir l'efficacité maximale des 
       installations solaires."
       bg_image_webp : "images/slider/bg_development_-1.jpg"
@@ -53,9 +47,7 @@ hero_slider:
         
     # slider item
     - subtitle : "Sondiale"
-      title :
-        - row : "Le Socle de la Semi-conducteurs"
-        - row : "et de Valeur Solaire"
+      title : "Le Socle de la Semi-conducteurs <br>et de Valeur Solaire"
       content : "Sécuriser la production de polysilicium de haute pureté pour alimenter la transition mondiale vers 
       l'énergie renouvelable."
       bg_image_webp : "images/slider/polysilicon_solar_cell.jpg"
@@ -69,9 +61,7 @@ hero_slider:
         
     # slider item
     - subtitle : "GPM Mobility"
-      title :
-        - row : "Propulser l'Avenir"
-        - row : "Électrique"
+      title : "Propulser l'Avenir <br>Électrique"
       content : "Construction de l'infrastructure essentielle pour la recharge des véhicules électriques et un 
       écosystème de transport durable."
       bg_image_webp : "images/slider/electric-cars-parking-lot-charging.webp"

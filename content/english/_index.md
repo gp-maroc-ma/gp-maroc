@@ -6,9 +6,7 @@ hero_slider:
   slider_item:
     # slider item
     - subtitle : "GPM Parks"
-      title : 
-        - row : "Sustainable"
-        - row : "Industrial Hubs"
+      title : "Sustainable <br>Industrial Hubs"
       content : "Developing world-class industrial ecosystems - GPM 1, GPM 2, and GPM 4 - dedicated to renewable energy 
       and strategic growth."
       bg_image_webp : "images/slider/image5.jpg"
@@ -22,9 +20,7 @@ hero_slider:
         
     # slider item
     - subtitle : "Solaris"
-      title :
-        - row : "Advanced Photovoltaic"
-        - row : "Manufacturing"
+      title : "Advanced Photovoltaic <br>Manufacturing"
       content : "High-performance solar panel production powered by cutting-edge technology and precision engineering."
       bg_image_webp : "images/slider/drone_pictures_23.webp"
       bg_image : "images/slider/drone_pictures_23.jpg"
@@ -37,9 +33,7 @@ hero_slider:
         
     # slider item
     - subtitle : "GPM Services"
-      title :
-        - row : "Operational"
-        - row : "Excellence"
+      title : "Operational <br>Excellence"
       content : "Comprehensive maintenance and specialized cleaning solutions to ensure the maximum efficiency of solar 
       installations."
       bg_image_webp : "images/slider/bg_development_-1.jpg"
@@ -53,9 +47,7 @@ hero_slider:
         
     # slider item
     - subtitle : "Sondiale"
-      title :
-        - row : "The Foundation of"
-        - row : "Semiconductor and Solar Value"
+      title : "The Foundation of <br>Semiconductor and Solar Value"
       content : "Securing high-purity polysilicon production to power the global transition to renewable energy."
       bg_image_webp : "images/slider/polysilicon_solar_cell.jpg"
       bg_image : "images/slider/polysilicon_solar_cell.jpg"
@@ -68,9 +60,7 @@ hero_slider:
         
     # slider item
     - subtitle : "GPM Mobility"
-      title :
-        - row : "Powering the Electric"
-        - row : "Future"
+      title : "Powering the Electric <br>Future"
       content : "Building the essential infrastructure for electric vehicle charging and a sustainable transport 
       ecosystem."
       bg_image_webp : "images/slider/electric-cars-parking-lot-charging.webp"

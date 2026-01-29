@@ -1,5 +1,5 @@
 ---
-description: "GPM Holding (Green Power Morocco) est un pionnier de l’énergie durable. Basée au Maroc, GPM Holding est une plateforme industrielle dédiée aux énergies propres, spécialisée dans la construction, la détention et l’exploitation d’actifs sur toute la chaîne de valeur des énergies renouvelables."
+description: "GPM Holding (Green Power Morocco) est une plateforme industrielle d'énergie propre axée sur la construction et l'exploitation d'actifs tout au long de la chaîne de valeur des énergies renouvelables."
 ########################### hero slider ############################
 hero_slider:
   enable : true

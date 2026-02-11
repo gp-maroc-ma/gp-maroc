@@ -57,6 +57,12 @@ When merging to production, create a release and tag on GitHub:
 5. Add release notes describing the changes
 6. Publish the release
 
+### Checking the Deployed Version
+
+The currently deployed version on production can be checked by looking at the last `<div>` tag of the footer where
+the `deployed_git_tag` variable is displayed, showing the current release version (e.g., `v1.0.0`). The last `<div>`
+tag is hidden and can be checked by HTML inspection using browser developer tools.
+
 ---
 
 ### Resources

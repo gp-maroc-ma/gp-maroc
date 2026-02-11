@@ -1,18 +1,18 @@
 version: 1
-env:
-  variables:
-    NODE_VERSION: 18.19.0
-    HUGO_VERSION: 0.153.4
-    HUGO_ENVIRONMENT: production-amplify
 frontend:
   phases:
     preBuild:
       commands:
+        - source .env-production # env variables for production branch AWS Amplify deploy
         - curl -L -o hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
         - tar -xf hugo.tar.gz
     build:
       commands:
-        - ./hugo --gc --minify --baseURL https://gp-maroc.ma/
+        - source .env-production # env variables for production branch AWS Amplify deploy
+        - GIT_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "0.0.0")
+        - sed -i "s/deployed_git_tag = \".*\"/deployed_git_tag = \"${GIT_TAG}\"/" config/production-amplify/params.toml
+        - ./hugo version
+        - ./hugo --gc --minify --baseURL ${BASE_URL} --environment ${HUGO_ENVIRONMENT} # Edit Amplify-specific parameters in config/production-amplify/params.toml
   artifacts:
     baseDirectory: public
     files:

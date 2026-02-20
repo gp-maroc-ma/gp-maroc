@@ -26,7 +26,7 @@ The GPM Holding website serves as a central hub and contains links to external l
 
 ### **4. Accuracy of Information**
 
-While we strive for precision, the content on these sites—particularly technical specifications and project solution descriptions—is provided for general informational purposes.
+While we strive for precision, the content on these sites - particularly technical specifications and project solution descriptions - is provided for general informational purposes.
 
 * **Updates:** Technical details and product descriptions are subject to change without notice as new technology becomes available.  
 * **Disclaimer:** GPM Holding does not warrant that the materials on its websites are accurate, complete, or current.

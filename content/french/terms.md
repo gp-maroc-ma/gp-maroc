@@ -26,7 +26,7 @@ Le site web de GPM Holding sert de hub central et contient des liens vers des pa
 
 ### **4. Exactitude des informations**
 
-Bien que nous nous efforcions d'être précis, le contenu de ces sites — en particulier les spécifications techniques et les descriptions de solutions de projet — est fourni à titre d'information générale.
+Bien que nous nous efforcions d'être précis, le contenu de ces sites - en particulier les spécifications techniques et les descriptions de solutions de projet - est fourni à titre d'information générale.
 
 * **Mises à jour :** Les détails techniques et les descriptions de produits sont susceptibles d'être modifiés sans préavis à mesure que de nouvelles technologies deviennent disponibles.
 * **Avis de non-responsabilité :** GPM Holding ne garantit pas que les documents présents sur ses sites web sont exacts, complets ou à jour.

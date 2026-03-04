@@ -39,31 +39,31 @@ hasChildren = true
   [[main]]
   parent = "Nos Entités"
   name = "GPM Parks"
-  url = "project/gpm-parks"
+  url = "project/gpm-parks/fr/"
   weight = 1
 
   [[main]]
   parent = "Nos Entités"
   name = "Solaris"
-  url = "project/solaristangier"
+  url = "https://solaristangier.ma/fr/"
   weight = 2
 
   [[main]]
   parent = "Nos Entités"
   name = "Sondiale"
-  url = "project/sondiale/"
+  url = "https://sondiale.ma/fr/"
   weight = 3
 
   [[main]]
   parent = "Nos Entités"
   name = "GPM Services"
-  url = "project/gpm-services/"
+  url = "https://gp-services.ma/fr/"
   weight = 4
 
   [[main]]
   parent = "Nos Entités"
   name = "GPM Mobility"
-  url = "project/gpm-mobility/"
+  url = "https://gp-mobilite.ma/fr/"
   weight = 5
 
 [[main]]
@@ -74,27 +74,27 @@ weight = 4
 # footer menu
 [[footer_menu]]
 name = "GPM Parks"
-url = "project/gpm-parks"
+url = "https://gpm-parks.ma/fr/"
 weight = 1
 
 [[footer_menu]]
 name = "Solaris"
-url = "project/solaristangier"
+url = "https://solaristangier.ma/fr/"
 weight = 2
 
 [[footer_menu]]
 name = "Sondiale"
-url = "project/sondiale/"
+url = "https://sondiale.ma/fr/"
 weight = 3
 
 [[footer_menu]]
 name = "GPM Services"
-url = "project/gpm-services/"
+url = "https://gp-services.ma/fr/"
 weight = 4
 
 [[footer_menu]]
 name = "GPM Mobility"
-url = "project/gpm-mobility/"
+url = "https://gp-mobilite.ma/fr/"
 weight = 5
 
 # footer bottom links

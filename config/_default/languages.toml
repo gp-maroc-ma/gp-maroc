@@ -10,6 +10,11 @@ baseURL = "/"
 home = "Home"
 keywords = ["Green Power Morocco", "Renewable Energy", "Solar Power", "Clean Energy", "Solar Panel Manufacturing", "Polysilicon", "Solar Maintenance", "Sustainable Industrial Hubs", "Photovoltaic", "Morocco"]
 
+# contact info
+address = "Corner of Oujda Avenue and Tan-Tan Residence, Perla Offices, 12th Floor, Office No. 60, Tangier"
+mobile = "+212 539 945 952"
+email = "info@gp-maroc.ma"
+
 # cookie consent content
 consent_manage = 'Manage preferences'
 consent_deny = 'Deny'
@@ -37,6 +42,11 @@ weight = 2
 baseURL = "/fr/"
 home = "Accueil"
 keywords = ["Green Power Morocco", "Énergie Renouvelable", "Énergie Solaire", "Énergie Propre", "Fabrication de Panneaux Solaires", "Polysilicium", "Maintenance Solaire", "Hubs Industriels Durables", "Photovoltaïque", "Maroc"]
+
+# contact info
+address = "Angle AV Oujda Et TanTan Res, Perla Oficinas 12 Etage Bureau N 60 Tanger"
+mobile = "+212 539 945 952"
+email = "info@gp-maroc.ma"
 
 # cookie consent content
 consent_manage = 'Gérer les préférences'

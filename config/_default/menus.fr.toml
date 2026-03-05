@@ -39,7 +39,7 @@ hasChildren = true
   [[main]]
   parent = "Nos Entités"
   name = "GPM Parks"
-  url = "project/gpm-parks/fr/"
+  url = "https://gpm-parks.ma/fr/"
   weight = 1
 
   [[main]]

@@ -11,7 +11,7 @@ description = "GPM Holding (Green Power Morocco) is a pioneer venture at the for
 author = "GPM Holding"
 
 # contact form action
-contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLSfO_dAi2qCGMY1tNlJrD1f6ZW3URcAr4K3f4mbaYV6GISaFhw/formResponse" # contact form works with https://formspree.io
+contact_form_action = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfcedKiTfXYFjgCKRp4f5qe_sFuvylgm2vWKqdiqtZOEb3FMQ/formResponse" # contact form works with https://formspree.io
 
 # Google Tag Manager
 gtm = "" # GTM-XXXXXXXX
